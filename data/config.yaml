@@ -10,17 +10,18 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Yifan's pile of notes and papers, but digital.
 page_title:
-  "🪴 Quartz 3.2"
+  "🏔 Yifan Yin 🧑🏻‍💻"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/quakeyifan
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/yifanyin
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/quakeyifan/
