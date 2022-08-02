@@ -4,6 +4,7 @@ tags:
 - reference
 - JGR
 - seismicity
+aliases: Dieterich1994
 ---
 
 # A constitutive law for rate of earthquake production and its application to earthquake clustering

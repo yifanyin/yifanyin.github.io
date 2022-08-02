@@ -7,7 +7,7 @@ tags:
 - statistics
 ---
 
-Combining Coulomb stress change with [[notes/Dieterich.JGR.1994.stress2rate|Dieterich 1994]] to calculate rate change after sudden stress change.
+Combining Coulomb stress change with [[notes/Dieterich.JGR.1994.stress2rate|Dieterich1994]] to calculate rate change after sudden stress change.
 
 Reference eismicity rate r change when a change in stress $\dot\tau$ occur and reach a new rate R. 
 
