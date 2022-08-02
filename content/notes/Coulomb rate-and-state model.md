@@ -7,7 +7,13 @@ tags:
 - statistics
 ---
 
-Combining Coulomb stress change with [[notes/Dieterich.JGR.1994.stress2rate|Dieterich 1994]] to calculate rate change after an earthquake occur. 
+Combining Coulomb stress change with [[notes/Dieterich.JGR.1994.stress2rate|Dieterich 1994]] to calculate rate change after sudden stress change.
+
+Reference eismicity rate r change when a change in stress $\dot\tau$ occur and reach a new rate R. 
+
+$$R=\frac{r}{\gamma\dot\tau} \tag{1}$$
+$\gamma$ is the state variable where
+$$d\gamma=\frac{1}{A\sigma}[dt-\gamma dS]. \tag{2}$$
 
 # Reference
 - [[notes/Sebastian Hainzl|Sebastian Hainzl]], S. Steacy, and D. Marsan (2010), Seismicity models based on Coulomb stress calculations, Community Online Resource for Statistical Seismicity Analysis, doi:10.5078/corssa-32035809. Available at [www.corssa.org](http://www.corssa.org/export/sites/corssa/.galleries/articles-pdf/Hainzl-et-al-2010-CORSSA-Coulomb-models.pdf_2063069299.pdf)
