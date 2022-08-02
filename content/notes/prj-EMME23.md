@@ -10,9 +10,9 @@ tags:
 
 # Model component
 ## Seismogenic Source Models
-
 - Catalogs
 - Faults
+	- Looking into [[notes/Chartier.SRL.2019.SHERIFS|Chartier2019]]
 
 ## Ground Motion Models
 

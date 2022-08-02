@@ -4,7 +4,6 @@ tags:
 - reference
 - JGR
 - seismicity
-aliases: Dieterich1994
 ---
 
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
@@ -76,4 +75,4 @@ $$t_a = \frac{A\sigma}{\dot\tau} = \frac{A\sigma}{-\Delta\tau_e} \tag{14}$$
 $\Delta\tau_e$ is the stress change of the event. ^g5xSByqSw
 
 A formulation for the effect of stressing history on earthquake rate
-![[Dieterich.JGR.1994.stress2rate#^Dieterich1994-9]] (B14)
+![[notes/Dieterich.JGR.1994.stress2rate#^Dieterich1994-9]] (B14)

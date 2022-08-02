@@ -9,9 +9,9 @@ tags:
 
 Combining Coulomb stress change with [[notes/Dieterich.JGR.1994.stress2rate|Dieterich1994]] to calculate rate change after sudden stress change.
 
-Reference eismicity rate r change when a change in stress $\dot\tau$ occur and reach a new rate R. 
+Reference seismicity rate r changes when a change in stress $\dot\tau$ occur and reach a new rate R as 
 
-$$R=\frac{r}{\gamma\dot\tau} \tag{1}$$
+$$R=\frac{r}{\gamma\dot\tau}. \tag{1}$$
 $\gamma$ is the state variable where
 $$d\gamma=\frac{1}{A\sigma}[dt-\gamma dS]. \tag{2}$$
 
