@@ -15,9 +15,9 @@ tags:
 
 
 # See also
-[[notes/UCERF|UCERF]]
+[[notes/UCERF3|UCERF]]
 
 # Resources
-- [[notes/Gerstenberger.RevGeophys.2020]]
+- [[notes/Gerstenberger-RevGeophys-2020]]
 - [Fault2SHA learning series](https://www.youtube.com/channel/UCEI-hzEOFRsMdQFdRPS1XBg) on youtube
 - The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)

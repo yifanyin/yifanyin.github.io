@@ -1,5 +1,6 @@
 ---
-title: "Dieterich.JGR.1994.stress2rate"
+title: "Dieterich-JGR.1994-stress2rate"
+aliases: Dieterich1994
 tags:
 - reference
 - JGR
@@ -9,9 +10,8 @@ tags:
 # A constitutive law for rate of earthquake production and its application to earthquake clustering
 - Authors: [[notes/James H Dieterich|James H Dieterich]]
 - [Source](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93JB02581)
-# Notes
+## Notes
 The essential concept of the analysis is the treatment of a seismically active volume of the Earth as having a population of sources that nucleate successive earthquakes to produce observed seismicity. The objective is to find the time at which each source in the population initiates an earthquake by following the evolution of conditions on the sources when subjected to some stressing history.
-
    - Here the volume containing the sources is assumed to be small enough to undergo the same stressing history.
    - The time of nucleation $t = F[C, \tau(t)]$. C is the initial condition and $\tau(t)$ is the stressing history.
    - At each time step, C is reevaluated using the prior stressing history and the state distribution.
@@ -21,8 +21,8 @@ Assume the initial condition is under a reference constant stressing rate $\dot\
 - So, $C = C(n, r, \dot\tau_r)$ (3)
 - and $t = F[C(n, r, \dot\tau_r), \tau(t)]$ (4)
 
-## Rate-and-state friction incoming
-- [[notes/Dieterich.Tectonophysics.1992]]
+### Rate-and-state friction incoming
+- [[notes/Dieterich-Tectonophysics-1992]]
 - Link the [[notes/rate-and-state friction|rate-and-state friction]] using $\tau$
 
 $$\tau=\sigma[\mu_0+A\ln(\frac{\dot\sigma}{\dot\sigma^*})+ B_1\ln(\frac{\theta_1}{\theta^*_1})+B_2\ln(\frac{\theta_2}{\theta^*_2})+...] \tag{5}$$
@@ -75,4 +75,4 @@ $$t_a = \frac{A\sigma}{\dot\tau} = \frac{A\sigma}{-\Delta\tau_e} \tag{14}$$
 $\Delta\tau_e$ is the stress change of the event. ^g5xSByqSw
 
 A formulation for the effect of stressing history on earthquake rate
-![[notes/Dieterich.JGR.1994.stress2rate#^Dieterich1994-9]] (B14)
+![[notes/Dieterich-JGR-1994-stress2rate#^Dieterich1994-9]] (B14)

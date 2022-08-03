@@ -1,9 +1,9 @@
 ---
-title: "Gerstenberger.RevGeophys.2020"
+title: "Gerstenberger-RevGeophys-2020"
 tags:
 - reference
 - PSHA
-- 
+aliases: Gerstenberger2020
 ---
 
 # Probabilistic Seismic Hazard Analysis at Regional and National Scales: State of the Art and Future Challenges

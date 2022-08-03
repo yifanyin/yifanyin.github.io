@@ -1,5 +1,5 @@
 ---
-title: "Dieterich.Tectonophysics.1992"
+title: "Dieterich-Tectonophysics-1992"
 tags:
 - reference
 - rate-and-state

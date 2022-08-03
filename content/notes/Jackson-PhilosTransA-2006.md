@@ -1,5 +1,5 @@
 ---
-title: "Jackson.PhilosTransA.2006"
+title: "Jackson-PhilosTransA-2006"
 tags:
 - built-environment
 - hazard
