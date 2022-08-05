@@ -17,6 +17,8 @@ The strain field we resolve is not smooth at all. Does the uneven deformation af
 
 We found that in the seismicity rate change positively correlate with the coseismic strain produced by the Dusky Sound earthquake. The NS extension slow down the earthquake productivity, likely also unclamp the EW Darfield rupture. The effect of strain field changing during the subduction zone events has large impact in low-strain area like the Canterbury Plain. And monitoring microseismicity would be a great complement of available geophysical measurements.
 
+## Next steps
+[[notes/prj-strain2rate]]
 
 ## Publication
 **Yifan Yin**, Stefan Wiemer, Edi Kissling, Federica Lanza, Antonio P. Rinaldi, Matthew Gerstenberger, Bill Fry; Seismicity Rate Change as a Tool to Investigate Delayed and Remote Triggering of the 2010–2011 Canterbury Earthquake Sequence, New Zealand. *Bulletin of the Seismological Society of America* 2021;; 111 (4): 2248–2269.[🔗](https://doi.org/10.1785/0120210006)

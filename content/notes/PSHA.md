@@ -8,6 +8,8 @@ tags:
 
 # Components
 ## Source models
+Best talk from the Fault2SHA channel by Graeme Weatherill
+<iframe src="https://www.youtube-nocookie.com/embed/oliQ22qc41Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Ground motion models
 
