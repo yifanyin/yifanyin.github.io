@@ -19,9 +19,11 @@ description:
 page_title:
   "🏔 Yifan Yin 🧑🏻‍💻"
 links:
+  - link_name: "All Notes"
+    link: https://yifanyin.github.io/notes/
+  - link_name: "All Tags"
+    link: https://yifanyin.github.io/tags/
   - link_name: Twitter
     link: https://twitter.com/quakeyifan
-  - link_name: Github
-    link: https://github.com/yifanyin
   - link_name: LinkedIn
     link: https://www.linkedin.com/in/quakeyifan/

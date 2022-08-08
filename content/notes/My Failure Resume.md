@@ -8,6 +8,7 @@ tags:
 Since I am not the [[notes/My Hero Academics|hero type]], might as well be my own anti-hero🤡
 
 # 2022
+- Rejected by LLNL without a second round for a postdoc position
 - Paper on [seismicity modeling](notes/prj-eqsim.md) got rejected by GRL
 - Failed the interview of a postdoc position in Uni Plymouth
 
