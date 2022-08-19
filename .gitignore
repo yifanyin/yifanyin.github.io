@@ -2,6 +2,7 @@
 public
 resources
 .idea
+.vscode
 content/.obsidian
 content/private
 content/templates
