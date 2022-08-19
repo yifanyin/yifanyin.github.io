@@ -9,4 +9,10 @@ tags:
 
 ## Managing environment
 - create: `conda create --name myenv python=3.6`
+- Add new environment to ipython kernel
+  `python -m ipykernel install --user --name myenv --display-name "myenv"`
 - remove: `conda remove --name myenv --all`
+
+# Related pages
+- [[notes/Pandas|Pandas]]
+- [[notes/Making maps in Python|Making maps]]

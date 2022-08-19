@@ -12,3 +12,4 @@ But really, why do we need all these mingling to achieve academic glory? Isn't s
 
 # See also
 [[notes/open science|Open science]]
+[Reimagining STEM Workforce Development as a Braided River](https://eos.org/opinions/reimagining-stem-workforce-development-as-a-braided-river)

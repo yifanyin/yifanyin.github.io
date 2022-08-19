@@ -14,7 +14,7 @@ tags:
 - [Source code](https://github.com/tomchartier/SHERIFS)
 
 ## Notes
--  Seismic Hazard and Earthquake Rates In Fault Systems
+- Seismic Hazard and Earthquake Rates In Fault Systems
 - Adapt the main philosophy of [[notes/UCERF3|UCERF3]]
 
 ## See also
