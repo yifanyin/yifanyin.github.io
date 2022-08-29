@@ -44,7 +44,7 @@ t = ax.text(-131, 40,'a string', clip_on=True, transform=ccrs.PlateCarree())
 t.clipbox = ax.bbox
 ```
 
-# Maps with geopandas
+# Geopandas
 [Geopandas](https://geopandas.org/en/stable/) is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
 
 ## Making a geopandas dataframe from [[Pandas]] dataframe ([ref](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html))

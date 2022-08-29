@@ -14,11 +14,21 @@ tags:
     - 827
 - Zermatt
     - Monte Rosa Hutt hike
+- Pizol five-lake hike
 
 # 2020
 - 水社大山
 - Regensberg to Baden
 - [Brienzer Rothorn](https://www.schweizmobil.ch/en/hiking-in-switzerland/routes/route/etappe-01577.html)
+
+# 2019
+- Martinsloch
+    - From Elm to Flims
+- Gfellen - Mittaggüpfi - Pilatus
+    - Mega ridge hike
+
+# 2018
+- Mürren hike
 
 # 2015
 - North Alps, Japan
