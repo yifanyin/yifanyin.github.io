@@ -25,6 +25,10 @@ tags:
 	- fully washed
 	- MAME tend to favor very subtle beans. Might be too delicate for my tongue.
 
+# Nomad Coffee
+- Kenya Faith Estate
+    - washed
+
 # Schwarzenbach
 - Espresso Romano 5/5
 	- Gift from the lab for my defense
