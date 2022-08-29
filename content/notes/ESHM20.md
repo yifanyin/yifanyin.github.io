@@ -1,5 +1,8 @@
 ---
 title: "European Seismic Hazard Model 2020"
+aliases:
+- ESHM20
+- ESHM
 tags:
 - PSHA
 - Europe
