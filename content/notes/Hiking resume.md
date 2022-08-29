@@ -14,7 +14,7 @@ tags:
     - 827
 - Zermatt
     - Monte Rosa Hutt hike
-- Pizol five-lake hike
+- [[notes/NZZ's 15 most beautiful hikes in Switzerland#^15babf|Pizol Five-lake hike]]
 
 # 2020
 - 水社大山
@@ -29,6 +29,9 @@ tags:
 
 # 2018
 - Mürren hike
+
+# 2017
+
 
 # 2015
 - North Alps, Japan
