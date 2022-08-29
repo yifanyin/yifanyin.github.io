@@ -8,7 +8,13 @@ tags:
 - how-to
 ---
 
-In my [NZ project](notes/prj-tempmatch.md), I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
+In my [[prj-tempmatch|NZ project]], I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
+
+
+# Pyproj
+Python interface for the PROJ library. Can perform geodetic (great circle) calculation given a projection. For example:
+- `pyproj.Geod.fwd()` compute the (lon, lat) given initial (lon, lat), distance and azimuth.
+- `pyproj.Geod.inv()`
 
 # Cartopy
 ## projection
@@ -41,10 +47,13 @@ t.clipbox = ax.bbox
 # Maps with geopandas
 [Geopandas](https://geopandas.org/en/stable/) is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
 
-- Making a geopandas dataframe from [[Pandas]] dataframe
+## Making a geopandas dataframe from [[Pandas]] dataframe ([ref](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html))
+- From longitude-latitude pairs
 ```python
 gdf = geopandas.GeoDataFrame(df, geometry=geopandas.points_from_xy(df.Longitude, df.Latitude))
 ```
+
+- From 
 
 - It is also easy to transform the shapes to different projections. What I do often is transforming the data points to transverse Mercator for a more accurate distance.
 ```python

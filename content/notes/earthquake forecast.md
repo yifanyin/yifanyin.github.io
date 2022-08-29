@@ -9,13 +9,13 @@ tags:
 
 ## How to achieve earthquake forecasts?
 Earthquake weather? Earthquake climate? What do we need to do next?
-- Physics-based models capable of [data assimilation](notes/data%20assimilation.md)
+- Physics-based models capable of [[data assimilation]]
 - good approximation of the physics we want to model
 - upscaling?
 
 ## Current state-of-the-art forecasting tools
-- [[notes/ETAS|ETAS]]
-- [[notes/Coulomb rate-and-state model|CRS]]
+- [[ETAS]]
+- [[Coulomb rate-and-state model]]
 - advanced traffic light system
 
 ## Other fields to learn from
