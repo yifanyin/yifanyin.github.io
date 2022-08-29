@@ -17,9 +17,9 @@ Best talk from the Fault2SHA channel by Graeme Weatherill
 
 
 # See also
-[[notes/UCERF3|UCERF]]
+[[UCERF3]]
 
 # Resources
-- [[notes/Gerstenberger-RevGeophys-2020]]
+- [[Gerstenberger-RevGeophys-2020]]
 - [Fault2SHA learning series](https://www.youtube.com/channel/UCEI-hzEOFRsMdQFdRPS1XBg) on youtube
-- The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)
+- The [[OpenQuake]] engine by GEM (Global Earthquake Model Foundation)

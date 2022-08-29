@@ -41,7 +41,7 @@ t.clipbox = ax.bbox
 # Maps with geopandas
 [Geopandas](https://geopandas.org/en/stable/) is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
 
-- Making a geopandas dataframe from [[notes/Pandas|Pandas]] dataframe
+- Making a geopandas dataframe from [[Pandas]] dataframe
 ```python
 gdf = geopandas.GeoDataFrame(df, geometry=geopandas.points_from_xy(df.Longitude, df.Latitude))
 ```
@@ -71,6 +71,8 @@ css_apennines.plot(column="SRMEAN", ax=ax, transform=ccrs.Geodetic(),
 ax.coastlines(resolution="10m")
 plt.show()
 ```
+
+- Export geopandas to GeoJSON with `gdf.to_json()` and `gdf.to_file(path. driver='GeoJSON')`. Handy for [[Chartier-SRL-2019|SHERIFS]] IO.
 
 # EarthPy for hillshades
 Yet to try it but here is the [reference](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/plot_dem_hillshade.html)

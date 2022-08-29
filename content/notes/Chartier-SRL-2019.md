@@ -15,7 +15,7 @@ tags:
 
 ## Notes
 - Seismic Hazard and Earthquake Rates In Fault Systems
-- Adapt the main philosophy of [[notes/UCERF3|UCERF3]]
+- Adapt the main philosophy of [[UCERF3]]
 
 ## See also
-[[notes/Pace-SRL-2016-FiSH]]
+[[Pace-SRL-2016-FiSH]]

@@ -15,5 +15,6 @@ tags:
 ## Seismogenic source models
 - Area source model
 - Active faults and background seismicity model
+    - [Database of individual seismogenic sources](https://diss.ingv.it/diss330/dissmap.html)
 - Subduction zones
 - Deep Seismicity Sources
