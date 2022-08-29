@@ -19,12 +19,11 @@ Weapons of choice
 ## Seismogenic Source Models
 - Catalogs
 - Faults
-	- Looking into [[notes/Chartier-SRL-2019|Chartier2019]]
+	- Looking into [[Chartier-SRL-2019|Chartier2019]]
 
 ## Ground Motion Models
 
 # Technical stuff
-- 
 - QGIS
 
 # Key publications
