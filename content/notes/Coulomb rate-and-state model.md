@@ -5,7 +5,9 @@ tags:
 - hazard
 - simulation
 - statistics
-aliases: CRS
+aliases:
+- CRS
+- Coulomb rate-and-state model
 ---
 
 Combining Coulomb stress change with [[notes/Dieterich-JGR-1994-stress2rate|Dieterich1994]] to calculate rate change after sudden stress change.

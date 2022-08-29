@@ -81,7 +81,7 @@ ax.coastlines(resolution="10m")
 plt.show()
 ```
 
-- Export geopandas to GeoJSON with `gdf.to_json()` and `gdf.to_file(path. driver='GeoJSON')`. Handy for [[Chartier-SRL-2019|SHERIFS]] IO.
+- Export geopandas to GeoJSON with `gdf.to_json()` and `gdf.to_file(path. driver='GeoJSON')`. Handy for [[notes/Chartier-SRL-2019|SHERIFS]] IO.
 
 # EarthPy for hillshades
 Yet to try it but here is the [reference](https://earthpy.readthedocs.io/en/latest/gallery_vignettes/plot_dem_hillshade.html)

@@ -14,5 +14,5 @@ tags:
 - remove: `conda remove --name myenv --all`
 
 # Related pages
-- [[Pandas]]
-- [[Making maps in Python|Making maps]]
+- [[notes/Pandas|Pandas]]
+- [[notes/Making maps in Python|Making maps]]

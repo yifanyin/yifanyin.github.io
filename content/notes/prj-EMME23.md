@@ -12,7 +12,7 @@ tags:
 Looking into ways of incorporate fault information into hazard calculation. Do different tools gives completely different result?
 Weapons of choice
 - [[Chartier-SRL-2019|SHERIFS]]
-- [[QDYN]]
+- [[notes/QDYN|QDYN]]
 - [[Virtual Quake]]!?
 
 # Model component

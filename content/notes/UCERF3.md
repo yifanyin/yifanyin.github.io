@@ -1,5 +1,6 @@
 ---
 title: "Uniform California Earthquake Rupture Forecast 3"
+alias: UCERF3
 tags:
 - PSHA
 - California

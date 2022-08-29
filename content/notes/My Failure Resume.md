@@ -5,18 +5,18 @@ tags:
 - career
 ---
 
-Since I am not the [[My Hero Academics|hero type]], might as well be my own anti-hero🤡
+Since I am not the [[notes/My Hero Academics|hero type]], might as well be my own anti-hero🤡
 
 # 2022
 - Rejected by LLNL without a second round for a postdoc position
-- Paper on [[prj-eqsim|seismicity modeling]] got rejected by GRL
+- Paper on [[notes/prj-eqsim|seismicity modeling]] got rejected by GRL
 - Failed the interview of a postdoc position in Uni Plymouth
 
 # 2021
 - Didn't go to any conference
 
 # 2020
-- Attend the text-based EGU to present the [[prj-tempmatch|NZ seismicity project]] and got next-to-zero response.
+- Attend the text-based EGU to present the [[notes/prj-tempmatch|NZ seismicity project]] and got next-to-zero response.
 
 # 2019
 - Didn't go to any conference

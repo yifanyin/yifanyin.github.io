@@ -5,4 +5,4 @@ tags:
 - 
 ---
 
-[[Guns, germs and steel]]
+[[notes/Guns, germs and steel|Guns, germs and steel]]

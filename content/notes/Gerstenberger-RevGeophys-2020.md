@@ -1,5 +1,7 @@
 ---
 title: "Gerstenberger-RevGeophys-2020"
+aliases:
+- Gerstenberger2020
 tags:
 - reference
 - PSHA

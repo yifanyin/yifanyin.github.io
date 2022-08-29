@@ -1,5 +1,6 @@
 ---
 title: "QDYN"
+alias: QDYN
 tags:
 - fortran
 - simulation
