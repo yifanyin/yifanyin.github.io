@@ -1,5 +1,5 @@
 ---
-title: "Dieterich-JGR.1994-stress2rate"
+title: "Dieterich-JGR.1994"
 aliases: Dieterich1994
 tags:
 - reference
@@ -51,7 +51,7 @@ Initially, $$\gamma = \frac{1}{\dot\tau_r} \tag{8}$$ where $\tau_r$ is the refer
 
 The state variable evolves with time as
 
-$$d\gamma = \frac{1}{A\sigma}[dt - \gamma d\tau + \gamma(\frac{\tau}{\sigma} - \alpha)d\sigma] \tag{9}$$ ^Dieterich1994-9
+$$d\gamma = \frac{1}{A\sigma}[dt - \gamma d\tau + \gamma(\frac{\tau}{\sigma} - \alpha)d\sigma] \tag{9}$$^Dieterich1994-9
 
 - The steady-state solution goes back to (8)
 - $A$ generally has values between 0.005-0.012 ^jN7GXVW6b
@@ -75,4 +75,4 @@ $$t_a = \frac{A\sigma}{\dot\tau} = \frac{A\sigma}{-\Delta\tau_e} \tag{14}$$
 $\Delta\tau_e$ is the stress change of the event. ^g5xSByqSw
 
 A formulation for the effect of stressing history on earthquake rate
-![[notes/Dieterich-JGR-1994-stress2rate#^Dieterich1994-9]] (B14)
+![[notes/Dieterich-JGR-1994#^Dieterich1994-9]] (B14)

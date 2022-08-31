@@ -10,7 +10,7 @@ aliases:
 - Coulomb rate-and-state model
 ---
 
-Combining Coulomb stress change with [[notes/Dieterich-JGR-1994-stress2rate|Dieterich1994]] to calculate rate change after sudden stress change.
+Combining Coulomb stress change with [[notes/Dieterich-JGR-1994|Dieterich1994]] to calculate rate change after sudden stress change.
 
 Reference seismicity rate r changes when a change in stress $\dot\tau$ occur and reach a new rate R as 
 
