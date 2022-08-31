@@ -9,7 +9,7 @@ tags:
 - [EFEHR portal](http://hazard.efehr.org/en/Documentation/specific-hazard-models/middle-east/overview/)
 
 # Objective
-Looking into ways of incorporate fault information into hazard calculation. Do different tools gives completely different result?
+Looking into ways of incorporate fault information into hazard calculations. Do different tools gives completely different result?
 Weapons of choice
 - [[notes/Chartier-SRL-2019|SHERIFS]]
 - [[notes/QDYN|QDYN]]

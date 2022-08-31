@@ -17,5 +17,10 @@ tags:
 - Seismic Hazard and Earthquake Rates In Fault Systems
 - Adapt the main philosophy of [[notes/UCERF3|UCERF3]]
 
+### Inputs
+- Fault geometry and basic descriptions
+- Target [[notes/statistical seismology#Magnitude-frequency distribution|magnitude-frequency distribution]] shape of fault seismicity
+    - This is expressed as the **ratio** of magnitudes occurring in the background hypothesis input.
+
 ## See also
 [[notes/Pace-SRL-2016-FiSH]]
