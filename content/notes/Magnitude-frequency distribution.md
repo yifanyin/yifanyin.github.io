@@ -9,6 +9,8 @@ tags:
 - statistics
 ---
 
+The distribution of earthquake sizes is an important quantity, particularly for seismic hazard assessment. Because it tells you the probability of large but infrequent earthquake if you can capture and measure the small ones.
+
 # The Gutenberg-Richter law
 The probability of an event with Magnitude Mag that is larger than M is
 $$Pr\{Mag>M\} = e^{-\beta M}$$

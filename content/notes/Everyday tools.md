@@ -6,7 +6,7 @@ tags:
 - phd-chat
 ---
 
-## Brain power saving
+# Brain power saving
 Because there are so many things to worry about already.
 
 - [espanso](https://espanso.org/)
@@ -15,7 +15,7 @@ Because there are so many things to worry about already.
 - Firefox multi-account containers
    Separate the online account logins in case they talk to each other.
 
-## Reference management
+# Reference management
 After Mendeley cramming up my disk space and Zotero not clicking for me, I found other means of sourcing the references. Here are some good reference discovery and managing tools I currently use.
 
 - [ResearchRabbit](https://researchrabbitapp.com/)
@@ -27,9 +27,12 @@ After Mendeley cramming up my disk space and Zotero not clicking for me, I found
 - [Paperpile](https://paperpile.com)
   Web-based reference manager that use Google Drive to save pdfs. Comes with iPad reader. Subscription needed.
 
-## Writing
+# Writing
 - Overleaf + LanguageTool
 - DeepL
 - Jupyter Notebook and Jupyter Lab
 - [Curvenote](https://curvenote.com)
    An interesting new service that combine article writing with Jupyter-style interactive interface plus collaborations like google docs. Endorsed by Software Underground
+
+# Quality life
+What [[notes/Huberman said|Huberman said]] in his podcast

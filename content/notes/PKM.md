@@ -2,10 +2,10 @@
 title: "Personal knowledge management"
 tags:
 - tool
-- PKM
+- productivity
 ---
 
-During the pandemic, the craze of "personal knowledge management" took off. Loosely, PKM tools are referred to the note keeping apps that let you reference portions of the note I happened to try the famed web-based note service *Roam Research*. Roam is a "outliner", bit like *Workflowy* or *Dynalist*.  One writes in hierarchical bullet points, or outlines. This structure allows you to write in a more non-linear way. Each page and bullet has its own address and can be easily cited elsewhere. There are open-sourced alternatives that achieve similar noting experience: [Athens Research](https://github.com/athensresearch/athens) and [Logseq](https://github.com/logseq/logseq). Personally, I use Athens Research for my daily scribbles. Now switching to RemNote for better PDF integration.
+During the pandemic, the craze of "personal knowledge management" took off. Loosely, PKM tools are referred to the note keeping apps that let you reference portions of the note I happened to try the famed web-based note service *Roam Research*. Roam is a "outliner", bit like *Workflowy* or *Dynalist*.  One writes in hierarchical bullet points, or outlines. This structure allows you to write in a more non-linear way. Each page and bullet has its own address and can be easily cited elsewhere. There are open-sourced alternatives that achieve similar noting experience: [Athens Research](https://github.com/athensresearch/athens) and [Logseq](https://github.com/logseq/logseq). Personally, I used Athens Research for my daily scribbles. Now I switch to [RemNote](https://www.remnote.com/) for better PDF integration.
 
 Using these tools free me from the note black hole that is Evernote or random note pile that is Bear and allows me to recycle and cite my own note to write more. The blocks also nudge you to write freely without considering too much about structures. That you can drag and drop later. These advantages are great, but the underlying data structure makes the content a bit harder to transfer between tools, say Google Doc or Overleaf.
 

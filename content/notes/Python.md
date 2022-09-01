@@ -2,7 +2,15 @@
 title: "Python"
 tags:
 - how-to
+- coding
 ---
+
+# Basic
+- Add path
+```python
+import sys
+sys.path.append('path/to/folder')
+```
 
 # Conda
 - Remove tarballs, cache, etc: `conda clean -a`
