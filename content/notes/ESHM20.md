@@ -21,3 +21,10 @@ tags:
     - [Database of individual seismogenic sources](https://diss.ingv.it/diss330/dissmap.html)
 - Subduction zones
 - Deep Seismicity Sources
+
+## Ground Motion Models
+- A whole different world that I do not trespass.
+
+# Technical stuff
+- QGIS
+- OpenQuake

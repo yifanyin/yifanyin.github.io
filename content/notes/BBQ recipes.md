@@ -20,7 +20,7 @@ This grill pork slice is without soy sauce. One can taste the spice and herbs be
 
 ## Preparation
 - Grind equal portion of garlic and ginger into paste.
-- Mix them with rice liqour, salt, white pepper and five spice.
+- Mix them with rice liquor, salt, white pepper and five spice.
 - Coat the pork well with the marinates and leave for at least 4 hours.
 - Grill!
 

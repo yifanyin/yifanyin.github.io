@@ -53,8 +53,6 @@ t.clipbox = ax.bbox
 gdf = geopandas.GeoDataFrame(df, geometry=geopandas.points_from_xy(df.Longitude, df.Latitude))
 ```
 
-- From 
-
 - It is also easy to transform the shapes to different projections. What I do often is transforming the data points to transverse Mercator for a more accurate distance.
 ```python
 geodf.to_crs("+proj=tmerc +lat_0=" + str(mean_lat) + " +lon_0=" +
