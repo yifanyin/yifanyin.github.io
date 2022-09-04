@@ -1,5 +1,7 @@
 ---
 title: "Python"
+alias:
+- Python
 tags:
 - how-to
 - coding
@@ -21,6 +23,7 @@ sys.path.append('path/to/folder')
   `python -m ipykernel install --user --name myenv --display-name "myenv"`
 - remove: `conda remove --name myenv --all`
 
-# Related pages
+# MOC
+- [[notes/numpy|NumPy]]
 - [[notes/Pandas|Pandas]]
 - [[notes/Making maps in Python|Making maps]]

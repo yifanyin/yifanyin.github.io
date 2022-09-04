@@ -15,7 +15,7 @@ tags:
 - [ ] Along the Planet Trail from Saint-Luc to Zinal
 - [ ] From the Gotthard to Bedretto Valley
 - [ ] Sentiero Cristalina
-- Pizol Five-lake hike (September 2021) ^15babf
+- Pizol Five-lake hike (September 2021) ^Pizol5lake
 - Aletsch Glacier Trail
 - In the Jura region to Creux du Van
 - Along the Brienzergrat

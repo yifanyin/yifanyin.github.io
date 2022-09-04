@@ -14,4 +14,4 @@ tags:
 - If no lower or upper is given, the default is the dimension of the array.
 
 # f2py
-Interface the fortran module with [[notes/Python|Python]]. Numpy use this regularly.
+Interface the fortran module with [[notes/python|Python]]. Numpy use this regularly.

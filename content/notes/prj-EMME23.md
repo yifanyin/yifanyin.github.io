@@ -7,7 +7,7 @@ tags:
 ---
 
 # Objective
-Looking into ways of incorporate fault information into hazard calculations. Do different tools gives completely different result? Now it sounds awfully similar to what Fault2SHA want to do.
+Looking into ways of incorporate fault information into hazard calculations. Do different tools gives completely different result? Now it sounds awfully similar to what [Fault2SHA](http://fault2sha.net) want to do.
 
 ## Weapons of choice
 - [[notes/Chartier-SRL-2019|SHERIFS]]

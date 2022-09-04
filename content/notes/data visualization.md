@@ -3,6 +3,19 @@ title: "data visualization"
 tags: design
 ---
 
+# Basics
+- [[notes/Nicolas P Rougier]], Droettboom M, Bourne PE (2014) **Ten Simple Rules for Better Figures**. PLoS Comput Biol 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
+    1. Know Your Audience
+    2. Identify Your Message
+    3. Adapt the Figure to the Support Medium
+    4. Captions Are Not Optional
+    5. Do Not Trust the Defaults
+    6. Use [[notes/data visualization#Colors|color]] Effectively
+    7. Do Not Mislead the Reader
+    8. Avoid “Chartjunk”
+    9. Message Trumps Beauty
+    10. Get the Right Tool
+
 # Colors
 - Color space
     - Relative color space: RGB, CMYK
