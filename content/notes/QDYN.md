@@ -8,6 +8,8 @@ tags:
 ---
 
 QDYN is a quasi-dynamic earthquake cycle simulation code written in [[notes/fortran|Fortran]]. 
-
 [Repository](https://github.com/ydluo/qdyn)
 [Documentation](https://ydluo.github.io/qdyn/index.html)
+
+# Tech stacks
+- [H-matrix](https://github.com/ambrad/hmmvp) Green's function compression

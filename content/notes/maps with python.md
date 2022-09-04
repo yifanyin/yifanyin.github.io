@@ -1,7 +1,5 @@
 ---
-layout: note
-title: "Making maps in Python"
-date: "2021-10-15"
+title: "Making maps with Python"
 tags:
 - coding
 - python

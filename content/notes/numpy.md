@@ -8,7 +8,7 @@ tags:
 ---
 
 # Resources
-- [From Python to NumPy](https://lhoupert.fr/test-jbook/book-jupyterbook.html) by [[notes/Nicolas P Rougier|Nicolas P. Rougier]]
+- [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) by [[notes/Nicolas P Rougier|Nicolas P. Rougier]]
 
 # How-to
 ## Broadcasting

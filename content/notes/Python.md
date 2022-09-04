@@ -26,4 +26,4 @@ sys.path.append('path/to/folder')
 # MOC
 - [[notes/numpy|NumPy]]
 - [[notes/Pandas|Pandas]]
-- [[notes/Making maps in Python|Making maps]]
+- [[notes/maps with python|Making maps]]
