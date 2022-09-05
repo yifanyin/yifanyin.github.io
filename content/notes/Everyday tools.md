@@ -1,6 +1,5 @@
 ---
 title: "Everyday tools"
-date: "2021-10-05"
 tags:
 - tool
 - phd-chat

@@ -4,8 +4,6 @@ tags:
 - statistics
 ---
 
-
-
 # Catalogs
 - [Harvard globalcentroid moment tensor catalog](https://www.globalcmt.org)
     - CMT solutions of global earthquakes M>5.
@@ -24,3 +22,8 @@ rate of aftershocks as a function of time t from the main-shock decays as $$\lam
 	- random
 - epistemic
 	- relating to the knowledge or the degree of its validation
+
+## coefficient of variation
+- $C_V=\sigma/\mu$
+- where $\sigma$ and $\mu$ are standard deviation and average of the inter-event time
+- The measurement is common for paleoseismology studies.

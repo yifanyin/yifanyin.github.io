@@ -16,3 +16,7 @@ A [great twitter thread](https://twitter.com/amilajack/status/147932864982000025
 - `fzf` for `find`
 - `duff` for `du`
 - `htop` for `top`
+
+# Languages
+- [[notes/python|Python]]
+- [[notes/fortran|Fortran]]
