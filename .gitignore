@@ -6,7 +6,7 @@ resources
 content/.obsidian
 content/private
 content/templates
+content/daily
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
-content/templates/post.md

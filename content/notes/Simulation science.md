@@ -13,6 +13,5 @@ I should start by saying that I am still a total n00b to the concept and philoso
 # MOC
 - [[notes/boundary element method|boundary element model]]
 
-
 # Resources
 - [Computational physics course](https://www.wgilpin.com/cphy/) from UT Austin by William Gilpin based on [[notes/python|Python]]

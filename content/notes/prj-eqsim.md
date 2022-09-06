@@ -14,7 +14,12 @@ Is there a way for us greedy scientists to have both phenomena in one simulation
 
 ![](notes/images/pap2_tweet.gif)
 
-Our result shows that with fault interaction that naturally exists within the crust, it's a lot easier to generate earthquake sequences that look like real sequences, at least from the statistic angle. There are other factors we have yet to put in the model, such as heterogeneous frictional properties and non-planar fault planes. The result gives us chances to exam the effect of all these factors that create the statistical signatures of seismicity as we know it.
+Our result shows that with fault interaction that naturally exists within the crust, it's a lot easier to generate earthquake sequences that resemble real sequences, albeit that the maximum magnitude is bounded by the fault size. There are other factors we have yet to put in the model, such as heterogeneous frictional properties and non-planar fault planes. The result gives us chances to exam the effect of all these factors that create the statistical signatures of seismicity as we know it.
 
-## Preprint
+# Perspectives
+- What does the distribution look like for seismicity generated on the same fault? Are they characteristic in sizes? Are they more or less repetitive in time?
+    -  Yan Y. Kagan, David D. Jackson, Robert J. Geller; **Characteristic Earthquake Model, 1884–2011, R.I.P.**. *Seismological Research Letters* 2012; 83 (6): 951–953. doi: [10.1785/0220120107](https://doi.org/10.1785/0220120107](https://doi.org/10.1785/0220120107)
+    - [[notes/Magnitude-frequency distribution#The moment-frequency relations|The general MFDs]]
+
+# Preprint
 **Yifan Yin**, Percy Galvez, Elías R. Heimisson and Stefan Wiemer; The role of three-dimensional fault interactions in creating complex seismic sequences and power-law magnitude distributions; *Earth and Space Science Open Archive*, 2022, doi: [10.1002/essoar.10510908.1](https://www.essoar.org/doi/abs/10.1002/essoar.10510908.1)
