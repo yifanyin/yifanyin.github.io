@@ -36,3 +36,4 @@ Details are on the department website.
 - Two weeks before, the student office send out the official invitation and list the event.
 
 # From exam to department conference
+- [Resident permit](https://ethz.ch/en/studies/international-immigration-housing/residence-permit/faq-aufenthaltsbewilligung.html)

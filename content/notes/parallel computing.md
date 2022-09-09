@@ -1,5 +1,5 @@
 ---
-title: "Parallel computing"
+title: "Parallel Computing"
 tags:
 - computing
 - coding
