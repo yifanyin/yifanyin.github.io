@@ -6,6 +6,9 @@ tags:
 - psha
 ---
 
+# Basic
+- Large-magnitude earthquakes dominant the risk but are the most difficult to constrain
+
 # Components
 ## Source models
 Best talk from the Fault2SHA channel by Graeme Weatherill

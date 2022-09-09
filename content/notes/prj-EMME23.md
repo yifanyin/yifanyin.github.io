@@ -12,7 +12,7 @@ Looking into ways of incorporate fault information into hazard calculations. Do 
 ## Weapons of choice
 - [[notes/Chartier-SRL-2019|SHERIFS]]
 - [[notes/QDYN|QDYN]]
-- [[notes/Virtual Quake|Virtual Quake]]!?
+- [[notes/earthquake simulator#Virtual Quake|Virtual Quake]]!?
 
 
 # Key publications

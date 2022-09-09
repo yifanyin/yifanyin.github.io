@@ -1,5 +1,5 @@
 ---
-title: "Dieterich-JGR.1994"
+title: "Dieterich.JGR.1994"
 aliases: Dieterich1994
 tags:
 - reference

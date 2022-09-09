@@ -7,18 +7,18 @@ tags:
 - seed
 ---
 
-## How to achieve earthquake forecasts?
+# How to achieve earthquake forecasts?
 Earthquake weather? Earthquake climate? What do we need to do next?
 - Physics-based models capable of [[notes/data assimilation|data assimilation]]
 - good approximation of the physics we want to model
 - upscaling?
 
-## Current state-of-the-art forecasting tools
+# Current state-of-the-art forecasting tools
 - [[notes/ETAS|ETAS]]
 - [[notes/Coulomb rate-and-state model|CRS]]
 - advanced traffic light system
 
-## Other fields to learn from
+# Other fields to learn from
 - Weather and climate models
     - Straight-foreward physics of water vapor and atmosphere convection
     - Sate 
@@ -28,5 +28,5 @@ Earthquake weather? Earthquake climate? What do we need to do next?
     - Lots of different data types like gas, deformation, seismicity. temperature. 
 - Building health monitoring
 
-## Random resources
+# Random resources
 Webinar by Prof. Warner Marzocchi: [Earthquake forecasting, quo vadis?](https://www.youtube.com/watch?v=XZxTQqRlW54)
