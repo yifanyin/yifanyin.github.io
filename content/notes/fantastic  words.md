@@ -17,7 +17,10 @@ tags:
     A scarcity or lack of something
 
 **long-drawn; long-drawn-out; drawn-out** (adj.)
-    continuing for a long time, especially for longer than is necessary
+    continuing for a long time, especially for longer than is necessary.
+
+**malaise**
+    General feeling of unease, discomfort that the exact cause is hard to identify.
 
 **malign** (adj.)
     Evil in nature or effect

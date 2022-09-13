@@ -1,7 +1,7 @@
 ---
 title: "Latex how-to"
 aliases:
-- Latex how-to
+- latex how-to
 tags:
 - how-to
 ---
