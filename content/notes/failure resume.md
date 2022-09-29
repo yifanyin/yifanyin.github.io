@@ -1,5 +1,5 @@
 ---
-title: "Failure Resume"
+title: "My Failure Resume"
 tags:
 - academia
 - career

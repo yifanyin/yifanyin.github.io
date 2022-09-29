@@ -66,4 +66,4 @@ Describes a computer architecture where all processors have direct access to com
 
 Most of the clusters today are combinations of shared-memory machines networked together as a distributed memory system. Very convenient to build but hard to program. 
 
-OpenMP and MPI
+# Resources

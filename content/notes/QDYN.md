@@ -14,3 +14,4 @@ QDYN is a [[notes/boundary element method|boundary-element]] quasi-dynamic earth
 
 # Tech stacks
 - [H-matrix](https://github.com/ambrad/hmmvp) Green's function compression
+
