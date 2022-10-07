@@ -45,7 +45,7 @@ t.clipbox = ax.bbox
 # Geopandas
 [Geopandas](https://geopandas.org/en/stable/) is great in that I don't need to fire up any GIS software to extract the spatial information from an shapefile. And the dataframe is ready to use just as in pandas.
 
-## Making a geopandas dataframe from [[Pandas|Pandas]] dataframe ([ref](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html))
+## Making a geopandas dataframe from [[notes/Pandas|Pandas]] dataframe ([ref](https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html))
 - From longitude-latitude pairs
 ```python
 gdf = geopandas.GeoDataFrame(df, geometry=geopandas.points_from_xy(df.Longitude, df.Latitude))

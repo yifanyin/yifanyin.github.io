@@ -18,10 +18,10 @@ $$Pr\{Mag>M\} = e^{-\beta M}$$
 Or in logarithmic form
 $$\log_{10}F(M) = a-bM$$
 ## Magnitude of completeness $M_c$
-[[Arnaud Mignan]]
+[[notes/Arnaud Mignan|Arnaud Mignan]]
 
 ## b value
-The love of [[Stefan Wiemer]] and [[Thessa Tormann]]
+The love of Stefan Wiemer and Thessa Tormann
 
 # The moment-frequency relations
 - Note that MFD can have very different shape depending on the target. For example, the MFD of a fault or the MFD of a subduction zone can be very different from the Gutenberg-Richter relation.
