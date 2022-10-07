@@ -2,6 +2,7 @@
 title: "Better housing"
 tags:
 - built-environment
+DocumentClass: website
 ---
 
 # Passive house design

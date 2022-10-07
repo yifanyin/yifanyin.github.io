@@ -6,15 +6,18 @@ tags:
 - language
 ---
 
-**attrition** (n.)
-    wearing away by friction: attrition warfare.
+### attrition #noun 
+wearing away by friction: attrition warfare.
 
-**cull** (vt.)
+### cull (vt.)
 1. select from a large quantity; obtain from a variety of sources
 2. Selective slaughter
 
-**dearth** (n.)
+**dearth** #noun
     A scarcity or lack of something
+
+### fortuitous #adj
+Happening by chance rather than intention
 
 **long-drawn; long-drawn-out; drawn-out** (adj.)
     continuing for a long time, especially for longer than is necessary.
@@ -22,8 +25,12 @@ tags:
 **malaise**
     General feeling of unease, discomfort that the exact cause is hard to identify.
 
-**malign** (adj.)
+**malign** #adj
     Evil in nature or effect
+
+### uninitiated #adj
+Without special knowledge or experience
 
 **zeal** (n.)
     great energy or enthusiasm in pursuit of a cause or an objective
+

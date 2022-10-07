@@ -18,5 +18,5 @@ A [great twitter thread](https://twitter.com/amilajack/status/147932864982000025
 - `htop` for `top`
 
 # Languages
-- [[notes/python|Python]]
-- [[notes/fortran|Fortran]]
+- [[python|Python]]
+- [[fortran|Fortran]]

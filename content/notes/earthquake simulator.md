@@ -8,6 +8,8 @@ tags:
 ---
 
 # Softwares
-
 ## Virtual Quake
 An earthquake simulator created by John B. Rundle. It has great meshing function but simple failure criterion and no frictional evolution law.
+[Link]( https://geodynamics.org/cig/software/vq/)
+
+

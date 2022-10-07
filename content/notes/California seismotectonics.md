@@ -9,8 +9,8 @@ tags:
 ---
 
 # Faults
-- San Andreas Fault
-
+## San Andreas Fault
+The fault
 
 # Parkfield
 A section of the San Andreas Fault that is presumed to have regular return periods
@@ -19,12 +19,17 @@ A section of the San Andreas Fault that is presumed to have regular return perio
     - 2004-09-28 Tue
 
 # Other events
-- Joshua Tree earthquake
-    - 1992-04-23 Thu
+## Joshua Tree earthquake
+- 1992-04-23 Thu
+
+## El Mayor-Chucapah Earthquake
+- 2010
+- Mw 7.2
 
 ## Landers earthquake
 - 1992-06-28 Sun
 - Mw 7.3
 
-- Ridgecrest earthquake
-    - 2019
+## Ridgecrest earthquake
+ - 2019
+

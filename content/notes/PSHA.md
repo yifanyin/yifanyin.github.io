@@ -1,9 +1,13 @@
 ---
 title: "Probabilistic seismic hazard assessment"
+aliases:
+- PSHA
+- Probabilistic seismic hazard assessment
 tags:
 - seismology
 - hazard
 - psha
+DocumentClass: website
 ---
 
 # Basic
@@ -18,11 +22,10 @@ Best talk from the Fault2SHA channel by Graeme Weatherill
 
 ## Uncertainty model
 
-
 # See also
-[[notes/UCERF3|UCERF3]]
+[notes/UCERF3|UCERF3]]
 
 # Resources
 - [[notes/Gerstenberger-RevGeophys-2020|Gerstenberger2020]]
 - [Fault2SHA learning series](https://www.youtube.com/channel/UCEI-hzEOFRsMdQFdRPS1XBg) on youtube
-- The [[notes/OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)
+- The [[OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)

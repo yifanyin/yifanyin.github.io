@@ -5,14 +5,17 @@ tags:
 - climate-change
 - ecology
 - built-environment
+DocumentClass: website
 ---
+
+What are built environments from the [Wiki](https://en.wikipedia.org/wiki/Built_environment)
 
 # Build the built environment in a less intrusive way
 ## [鋼構攔砂壩](https://e-info.org.tw/node/223936)
 
 > 穿透式的鋼構壩，在不妨礙生態系運作的情況下，達到避災減災的目的。「降雨將上游的土砂往下游帶，達到補充海岸泥沙，原是自然運作的法則。」許文奕說，而穿透式的壩體，就可讓顆粒較小、沖刷力道相對小的砂石往下游帶。
 
-# Biodiverse gardens
+[[Biodiverse Gardens]]
 
 # Copper mining directly from brine instead of digging it
 
@@ -29,8 +32,10 @@ But the way of mining copper in opencast mines destroy environment and preserves
 - Permaculture
     - Circular agriculture that is self-sustainable
     - food forests
+    - 樸門
 - Agroforestry
     - Growing rows of tree belts in between conventional farmland to retain water, providing shades and shield against the wind.
 
 # See also
-[[notes/Better housing|Better housing]]
+[[notes/better housing|Better housing]]
+
