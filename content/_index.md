@@ -19,7 +19,7 @@ Full CV can be [[notes/Curriculum Vitae|found here]] and as a [PDF file](https:/
 ## Personal Interests
 - [[notes/Better built environmemts|Sustainability in built environments]]
 - [[notes/Hiking resume|Hiking]], best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
-- [[notes/on cooking|Cooking]] and [[notes/Coffee Log|coffee]]
+- [[notes/on cooking|Cooking]] and [[notes/coffee|coffee]]
 
 ## Technical experiences
 - Data analyst at the [Broadband Array in Taiwan for Seismology](https://bats.earth.sinica.edu.tw/) (BATS), Academia Sinica, Taiwan.
