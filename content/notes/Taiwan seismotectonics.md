@@ -8,7 +8,7 @@ tags:
 ---
 
 # 2022
-[[Chi-Shang earthquake sequence|Chi-Shang earthquake sequence]]
+[[notes/Chi-Shang earthquake sequence|Chi-Shang earthquake sequence]]
 
 # 1999
 [[notes/Chi-chi earthquake|Chi-chi earthquake]]

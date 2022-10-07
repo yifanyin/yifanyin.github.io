@@ -3,7 +3,7 @@ title: "Template Matching"
 tags:
 - research
 - signal-processin
-- aarray-seismology
+- seismology/observation
 ---
 
 Using known event waveform to systematically search for weaker events. Famous usages include David Shelly's tremor research in Japan and Zhigang Peng's works about dynamically triggered events is various places.
