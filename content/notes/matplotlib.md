@@ -38,7 +38,7 @@ ax = fig.add_subplot(gs[0, 0])
 ![](https://matplotlib.org/stable/_images/sphx_glr_linestyles_001.png) 
 
 ## Annotations
-- Using [[Latex]]: `matplotlib.rcParams['text.usetex'] = True`
+- Using [[notes/Latex|Latex]]: `matplotlib.rcParams['text.usetex'] = True`
 - And wrap the text with `r"text"`
 
 ## Mapping contour
