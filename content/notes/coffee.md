@@ -10,12 +10,14 @@ tags:
 # Bean log
 ## Boréal
 #Switzerland 
-### Nyaruzina (June 2022)
+### Nyaruzina 
+- Time:: June 2022
 - Region:: Nyamagabe District, Rwanda
 - Variety:: Red bourbon
 - Process:: Wahsed
 - Taste:: Smooth, juicy
-### Combrifol (September 2022)
+### Combrifol
+- Time:: September 2022
 - Region:: Honduras
 - Variety:: Catuai, Bourbon, typica, etc.
 - Process:: Natural
@@ -51,7 +53,7 @@ tags:
 ### Espresso Romano
 - Score:: 5/5
 - Gift from the lab for my defense
-- India+Brazil+Indonesia+Ethiopia
+- Variety:: India+Brazil+Indonesia+Ethiopia
 ### Wiener Mischung 
 
 ## Stoll
@@ -76,3 +78,11 @@ tags:
 - Region:: Agaro-Bersema, Ethiopia
 - Coop:: Biftu Gudina
 - Taste:: Incredibily tasty
+
+## Toj Balam
+Farm to roast from Antigua, Guatemala
+### From Swiss coffee festival
+- Time:: [[2022-10-08 Sat]]
+- Region:: Antigua, Guatemala
+- Process:: natural anaerobic
+- Variety:: Caturra

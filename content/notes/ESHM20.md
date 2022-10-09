@@ -8,8 +8,9 @@ tags:
 - Europe
 ---
 
-Authors:: Authors: [[Laurentiu Danciu]], [[Shyam Nandan]], Celso Reyes, Roberto Basili, [[Graeme Weatherill]], Celine Beauval, Andrea Rovida, Susana Vilanova, [[Karin Şeşetyan]], Pierre-Yves Bard, Fabrice Cotton, [[Stefan Wiemer]] and [[Dominico Giradini]]
-Links:: [report pdf](<file:///Users/yifan/Research/EMME/References/EFEHR_TR001_ESHM20.pdf>)
+# Metadata
+- Authors:: [[notes/Laurentiu Danciu]], [[Shyam Nandan]], Celso Reyes, Roberto Basili, [[Graeme Weatherill]], Celine Beauval, Andrea Rovida, Susana Vilanova, [[Karin Şeşetyan]], Pierre-Yves Bard, Fabrice Cotton, [[Stefan Wiemer]] and [[Dominico Giradini]]
+- Links:: [report pdf](<file:///Users/yifan/Research/EMME/References/EFEHR_TR001_ESHM20.pdf>)
 
 # Model components
 ## Inputs

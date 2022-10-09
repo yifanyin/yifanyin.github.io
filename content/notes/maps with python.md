@@ -6,8 +6,7 @@ tags:
 - how-to
 ---
 
-In my [[notes/prj-tempmatch|NZ project]], I decided to plot my results entirely in Python to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
-
+In my [[notes/prj-tempmatch|NZ project]], I decided to plot my results entirely in [[notes/python|Python]] and [[notes/matplotlib|matplotlib]] to keep the pipeline simple. Turned out if you can fix the projection, you are half-way there. The projection is handled by [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html).
 
 # Pyproj
 Python interface for the PROJ library. Can perform geodetic (great circle) calculation given a projection. For example:
