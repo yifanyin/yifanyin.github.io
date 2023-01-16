@@ -7,5 +7,5 @@ tags:
 - scholar
 - friction
 ---
-- UC Riverside, #USA/California 
+- UC Riverside
 - [[rate-and-state friction]], [[RSQSim]]

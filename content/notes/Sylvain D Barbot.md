@@ -1,15 +1,8 @@
 ---
-title: "Sylvain Barbot"
+title: "Sylvain D Barbot"
 aliases:
 - Sylvain Barbot
 DocumentClass: note
+tags:
+- scholar
 ---
-
-```dataview
-table
-Authors AS "Authors",
-title AS "Title",
-Source as "Journal"
-from [[Sylvain D Barbot]] and #reference
-sort Date DESC
-```

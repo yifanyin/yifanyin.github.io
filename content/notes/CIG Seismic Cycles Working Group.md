@@ -3,8 +3,11 @@ title: "CIG Seismic Cycles Working Group"
 aliases:
 - CIG Seismic Cycles Working Group
 DocumentClass: note
+tags:
+- simulation
+- earthquake-cycles
 ---
-#simulation #earthquake/cycles 
+
 # Metadata
 - Members:: [[Sylvain D Barbot]], Kali Allison, [[Luca Dal Zilio]], [[Alice-Agnes Gabriel]], David May, Pierre Romanet, [[Paul Segall]], and Lorraine Hwang
 
