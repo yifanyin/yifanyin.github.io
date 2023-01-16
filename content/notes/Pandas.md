@@ -16,7 +16,7 @@ I am unable to leave pandas because I work with catalogs. But I hear good things
 - Slice a dataframe to independant variable by adding `.copy()`
 
 # Row iteration
-## iterrow
+## iterrows
 Iterate over DataFrame rows as (index, Series) pairs.
 - Return the index and the row as **series**
 - Does not preserve dtype
@@ -25,7 +25,7 @@ for i, row in df.iterrow():
 	print(row)
 ```
 
-## itertuple
-Iterate over DataFrame rows as `namedtuples`
-Return the iterator, An object to iterate over named tuples for each row in the DataFrame with the first field possibly being the index and following fields being the column values.
+## itertuples
+- Iterate over DataFrame rows as `namedtuples`
+- Return the iterator, An object to iterate over named tuples for each row in the DataFrame with the first field possibly being the index and following fields being the column values.
 

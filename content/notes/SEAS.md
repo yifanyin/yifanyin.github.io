@@ -7,8 +7,7 @@ tags:
 - SCEC
 ---
 
-# sequences of earthquakes and aseismic slip
-
+- The [[SCEC]] **S**equences of **E**arthquakes and **A**seismic **S**lip community benchmark
 - [Website](https://strike.scec.org/cvws/seas/)
 - [2020 Workshop](https://www.scec.org/workshops/2020/seas-oct)
 

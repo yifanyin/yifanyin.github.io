@@ -12,7 +12,3 @@ tags:
 	- Maintained by the central geological survey
 
 See also [[Geoscience & GeoEnergy Webinar Series]]
-
-
-
-

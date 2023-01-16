@@ -15,7 +15,8 @@ What are built environments from the [Wiki](https://en.wikipedia.org/wiki/Built_
 
 > 穿透式的鋼構壩，在不妨礙生態系運作的情況下，達到避災減災的目的。「降雨將上游的土砂往下游帶，達到補充海岸泥沙，原是自然運作的法則。」許文奕說，而穿透式的壩體，就可讓顆粒較小、沖刷力道相對小的砂石往下游帶。
 
-[[Biodiverse Gardens]]
+# Biodiverse Gardens
+- [你敢知影阮ㄟ名？臺灣原生野花草化身「野花園」主角](https://www.agriharvest.tw/archives/58017)
 
 # Copper mining directly from brine instead of digging it
 
@@ -26,7 +27,7 @@ From [the Economist](https://www.economist.com/science-and-technology/2021/07/07
 But the way of mining copper in opencast mines destroy environment and preserves, putting green energy at odds with conservation efforts.
 
 # Renew the built environment for better cause
-- [How flooded coal mines could heat homes](https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes) in the UK 
+- [How flooded coal mines could heat homes](https://www.bbc.com/future/article/20210706-how-flooded-coal-mines-could-heat-homes) in the UK ^coalwater
 
 # Better agriculture practices
 - Permaculture

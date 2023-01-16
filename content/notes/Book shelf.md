@@ -14,14 +14,9 @@ DocumentClass: MOC
 - [ ] [[notes/1984]]
 - [x] [[notes/How to take smart notes|How to take smart notes]]
 - [x] Getting Things Done
-- [ ] 鋼之煉金術師
+- [ ] 鋼之煉金術師 #manga 
+- [x] 不靠食譜就能做好菜  #Cooking #Book 
 
 # Manga
 - [x] 3月のライオン
-
-
-
-
-
-
 

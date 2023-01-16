@@ -10,9 +10,9 @@ tags:
 Looking into ways of incorporate fault information into hazard calculations. Do different tools gives completely different result? Now it sounds awfully similar to what [Fault2SHA](http://fault2sha.net) want to do.
 
 ## Weapons of choice
-- [[notes/Chartier-SRL-2019|SHERIFS]]
+- [[notes/Chartier2019-SHERIFSOpenSource|SHERIFS]]
 - [[notes/QDYN|QDYN]]
-- [[earthquake simulator#Virtual Quake|Virtual Quake]]!?
+- [[notes/Virtual Quake]]!?
 
 # Simulations
 ## splays-qdyn

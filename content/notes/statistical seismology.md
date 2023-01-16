@@ -28,10 +28,10 @@ $$n(t) = \frac{K}{(t+c)^p}$$ ^64h6vmC1c
 ## Båth's Law
 
 ## Scaling Ahoy!
-[[WellsCoppersmith.BSSA.1994]]
+[[@Wells1994-sf]]
 
 ## Fault dimension and magnitude
-![[Kase.BSSA.2010#^m0Z6x5EQC]]
+![[@Kase2010-cg#^m0Z6x5EQC]]
 
 
 # Statistical terms
@@ -54,4 +54,4 @@ Compare a sample with a reference probability distribution
 See also
 [[Earthquakes as point processes]]
 [[notes/ETAS|ETAS]]
-[[notes/PSHA|Probabilistic seismic hazard assessment]]
+[[notes/probabilistic seismic hazard assessment|Probabilistic seismic hazard assessment]]

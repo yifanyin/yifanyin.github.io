@@ -5,7 +5,7 @@ aliases:
 tags:
 - scholar
 ---
-# Fault2SHA Learning Series (11) Source models for [[notes/PSHA|PSHA]]
+# Fault2SHA Learning Series (11) Source models for [[notes/probabilistic seismic hazard assessment|PSHA]]
   - [[2022-06-15 Wed]] 
 
 <iframe title="Fault2SHA Learning Series (11) Source models for PSHA" src="https://www.youtube.com/embed/oliQ22qc41Q?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>

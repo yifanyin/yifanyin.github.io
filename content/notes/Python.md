@@ -38,6 +38,16 @@ inspect.getargspec()
     -   geopandas
     -   cartopy
 
+# Parallel computing in Python
+- GIL
+## Multithreading
+- Good for IO-bound operations
+
+## Multiprocessing
+- When your problem is CPU-bound
+
+See also [[notes/parallel computing]]
+
 # iPython
 ## Built-in magic commands
 - show the variables and imports in the shell: `%whos`
@@ -51,10 +61,17 @@ inspect.getargspec()
 # Jupyterlab
 - Start: `jupyter lab` 
 - Interactive [matplotlib](research/Research Wiki/how-to/matplotlib.md) plot: `%matplotlib widget` 
+
+# Parallel in Python
+## ipython parallel
+## Dask
+- Bit more friendly for scientific computing
+
+
 # MOC
 - [[notes/numpy|NumPy]]
 - [[notes/Pandas|Pandas]]
--  [[matplotlib]]
+- [[matplotlib]]
 - [[notes/maps with python|Making maps]]
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Simulation Science"
+created: 2022-09-06
 tags:
 - seed
 ---
@@ -16,3 +17,13 @@ I should start by saying that I am still a total n00b to the concept and philoso
 
 # Resources
 - [Computational physics course](https://www.wgilpin.com/cphy/) from UT Austin by William Gilpin based on [[python|Python]]
+
+# Numerical Methods
+## Finite difference method
+## Finite element method
+## boundary integral method
+
+* Reservoir modeling
+    * Concept sketch. If you can sketch it, you can model it.
+
+
