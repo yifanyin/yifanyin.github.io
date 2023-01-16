@@ -4,7 +4,8 @@ aliases:
 - Arnaud Mignan
 tags:
 - scholar
-- seismology/statistics
+- seismology
+- statistics
 ---
 
 Former SED scholar

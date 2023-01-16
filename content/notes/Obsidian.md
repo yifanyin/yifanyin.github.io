@@ -19,7 +19,7 @@ tags:
 - $25 one-time
 
 # Cons
-- Not as fluid as [[Roam Research]] or [[Athens Research]] that has bullets as the minimum note unit.
+- Not as fluid as Roam Research or LogSeq that has bullets as the minimum note unit.
 - Closed-source
 - tags and pages are separated.
 

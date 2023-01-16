@@ -22,4 +22,8 @@ The response: $y(t)$ to the forcing function: $f=\cos\omega t$
 $$my''+ky=\cos\omega t$$
 The natural (null!?) frequency $\omega_n$ is $\sqrt{\frac{k}{m}}$ from the left-hand side, and the forcing $\omega_p$ comes from the right-hand side.
 
-## Impulse response
+## Impulse response is fundamental solution
+The fundamental solution $g(t)$ to a linear differential equation is the impulse response in engineering terms. 
+$$mg''+kg=\delta(t)$$ with zero initial conditions.
+
+[[complex numbers]]

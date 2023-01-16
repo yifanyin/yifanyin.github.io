@@ -37,8 +37,9 @@ Using only the real number to solve it:
 
 ### Complex Sinusoid $e^{i\omega t}$
 Bringing the exponential back in!
+
 > [!note]
-> Euler's formula says $e^{i\theta}=\cos\theta+i\sin\theta$
+> Euler's formula says $e^{i\theta}=\cos\theta+i\sin\theta$ ^eulersformula
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIT2uMxYh6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
