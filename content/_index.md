@@ -16,7 +16,7 @@ Full CV can be [[notes/Curriculum Vitae|found here]] and as a [PDF file](https:/
 - [[notes/prj-eqsim|Seismicity Simulations]]
 
 ## Personal Interests
-- [[notes/Better built environmemts|Sustainability in built environments]]
+- [[notes/better built environments|Sustainability in built environments]]
 - [[notes/Hiking resume|Hiking]], best perform in hot and humid jungles, but Alpine pasture with cow poops are not too bad, either.
 - [[notes/on cooking|Cooking]] and [[notes/coffee|coffee]]
 
