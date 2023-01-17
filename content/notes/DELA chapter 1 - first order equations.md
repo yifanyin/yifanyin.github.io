@@ -4,11 +4,11 @@ tags: math
 
 # The basic first-order linear differential equation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0r2L3wTqkBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-With a source/sink term q(t)
-$\frac{dy}{dt}=ay+q(t)$, Start from y(0) at t=0
 
-The solution
-$y(t)=e^{at}y(0)+e^{at}\int_0^t e^{-as}q(s)ds \tag{4}$
+With a source/sink term q(t): $\frac{dy}{dt}=ay+q(t)$, Start from y(0) at t=0
+
+The solution:
+$$y(t)=e^{at}y(0)+e^{at}\int_0^t e^{-as}q(s)ds \tag{4}$$
 
 ## q(t) is most likely
 ### Constant source: $q(t)=\mathbf{q}$
