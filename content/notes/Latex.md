@@ -9,7 +9,7 @@ tags:
 
 I may not use a micro-filled Latex package ever again after the [[notes/How to graduate in D-ERDW|doctoral thesis]]. But here are some pretty neat tricks I learned along the way. First, acknowledgement to the [awesome template](https://github.com/uio-latex/phduio-article-based) provided by Uni Oslo.
 
-Beside serious documents, there are other flavors of Latex math in web applications. [[notes/Obsidian|Obsidian]] use MathJax instead of Katex for equation rendering. Some syntax are different.
+Beside serious documents, there are other flavors of Latex math in web applications. [[notes/Obsidian|Obsidian]] use MathJax instead of Katex for equation rendering. Some syntax is different.
 
 # Greek alphabet
 |alphabet|spelling|
@@ -27,14 +27,9 @@ Beside serious documents, there are other flavors of Latex math in web applicati
 |$\xi$|xi
 |$\chi$|chi|
 
-# Random
-| symbol | text|
-|---|---|
-|$\ell$| ell|
-
 
 # Math symbols
-|Equations|symbol|latex|
+|symbol|latex|
 |---|---|
 |$\equiv$| equiv|
 |$\not=$|not=|
@@ -52,9 +47,15 @@ Beside serious documents, there are other flavors of Latex math in web applicati
 |$\nabla$|nabla|
 |$\cdot$|cdot|
 |$\degree$|degree|
+
 - Dynamic brackets `\left(` `\right)` 
 - Other symbols
     - Degree: `\,^{\circ}` 
+
+# Random
+| symbol | text|
+|---|---|
+|$\ell$| ell|
 
 ## Cases
 ```latex
