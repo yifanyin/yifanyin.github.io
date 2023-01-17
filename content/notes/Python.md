@@ -60,7 +60,7 @@ See also [[notes/parallel computing]]
 
 # Jupyterlab
 - Start: `jupyter lab` 
-- Interactive [matplotlib](research/Research Wiki/how-to/matplotlib.md) plot: `%matplotlib widget` 
+- Interactive [[notes/matplotlib|matplotlib]] plot: `%matplotlib widget` 
 
 # Parallel in Python
 ## ipython parallel
@@ -71,8 +71,5 @@ See also [[notes/parallel computing]]
 # MOC
 - [[notes/numpy|NumPy]]
 - [[notes/Pandas|Pandas]]
-- [[matplotlib]]
+- [[notes/matplotlib|matplotlib]]
 - [[notes/maps with python|Making maps]]
-
-
-
