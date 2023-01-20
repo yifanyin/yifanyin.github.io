@@ -56,33 +56,4 @@ tags:
 - Variety:: India+Brazil+Indonesia+Ethiopia
 ### Wiener Mischung 
 
-## Stoll
-#Switzerland
-### Ethiopia Yirgacheffe Chelbesa Heirloom
-- Feb 2022
-- Score:: 4/5
-- Region:: Yirgacheffe, Ethiopia
-- Process:: Washed
-- Taste:: All around great Yirgacheffe. One of the better beans Stoll buys. 
-### Colombia (July 2022) 3/5
-- Region:: Colombia
-- Coop:: Anserma
-- Process:: Natural (anaerobic?)
-- Taste:: Light umami at the upper bound of my liking. Not bad as a whole.
 
-## Taste Coffee & More
-#Italy
-### Ethiopia Agaro-Bersema
-- Apr 2022
-- Score:: 5/5
-- Region:: Agaro-Bersema, Ethiopia
-- Coop:: Biftu Gudina
-- Taste:: Incredibily tasty
-
-## Toj Balam
-Farm to roast from Antigua, Guatemala
-### From Swiss coffee festival
-- Time:: [[2022-10-08 Sat]]
-- Region:: Antigua, Guatemala
-- Process:: natural anaerobic
-- Variety:: Caturra

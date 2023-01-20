@@ -29,6 +29,37 @@ The natural (null!?) frequency $\omega_n$ is $\sqrt{\frac{k}{m}}$ from the left-
 The fundamental solution $g(t)$ to a linear differential equation is the impulse response in engineering terms. 
 $$mg''+kg=\delta(t)$$ with zero initial conditions.
 
-## Review complex numbers
+It is the same as solving $mg''+kg=0$ with initial condition g(0)=0 and g'(0)=1/m (no displacement and finite velocity!)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkFZY6esNOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Review complex numbers
 [[notes/complex numbers|complex numbers]]
 
+# 2nd-order equations with constant coefficients
+A unforced motion with right-hand side as zero:
+$$A\frac{d^2y}{dt^2}+B\frac{dy}{dt}+Cy=0$$ starting from $y(0)$ and $y'(0)$. It can grow, decay or oscillate. Thinking in term of a spring-block system, then A is mass (with acceleration), B is damping (following velocity) and C is stiffness (of the spring).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zqks_JcU0cM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+We use the exponential $y=e^{st}$ and can get the characteristic equation
+$$As^2+Bs+C=0$$
+
+The roots $s_1, s_2$ are $$\frac{-B\pm\sqrt{B^2-4AC}}{2A}$$. And the complete solution is any combination of the two exponential.
+
+## Fundamental solution
+Special choice of initial condition g(0)=0 and g'(0)=1/A gives the fundamental solution. This is a null solution with a jump start, and a particular solution of $Ag''+Bg'+C=\delta(t)$.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PoHO4PZtW78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Forced oscillations and exponential response
+If there's no forcing term on the right-hand side, the equation is *homogeneous* and controlled by the initial conditions.
+
+When forcing terms exist, we expect a particular solution. And the complete solution $y=y_n+y_p$. What would the best forcing function? $e^{st}$!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o93axeQJqJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Real 2nd-order equations with damping
+No resonance this time! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMQPt7t0bHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
