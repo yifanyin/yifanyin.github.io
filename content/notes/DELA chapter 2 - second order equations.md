@@ -60,6 +60,8 @@ When forcing terms exist, we expect a particular solution. And the complete solu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o93axeQJqJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Real 2nd-order equations with damping
-No resonance this time! 
+No resonance this time because all the coefficients are nonzero!
+$$Ay''+By'+Cy=e^{i\omega t}$$
+However, often we need the real part of the solution, or $f(t)=\cos\omega t$.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMQPt7t0bHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

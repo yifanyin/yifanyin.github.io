@@ -9,6 +9,8 @@ tags:
 - math
 ---
 
+So I promised that I would watch Gilbert Strang's classes to bring good luck to the postdoc.mobility grant. Now that I get it, I have to study and refresh my rusty math.
+
 # Metadata
 Author:: [[notes/Gilbert Strang|Gilbert Strang]]
 Resources: [MIT OCW](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/)
