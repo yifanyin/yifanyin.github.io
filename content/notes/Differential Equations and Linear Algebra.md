@@ -24,4 +24,5 @@ Resources: [MIT OCW](https://ocw.mit.edu/courses/res-18-009-learn-differential-e
 # MOC
 - [[notes/DELA chapter 1 - first order equations|Chapter 1: 1st order eqs]]
 - [[notes/DELA chapter 2 - second order equations|Chapter 2: 2nd order eqs]]
-- 
+- [[notes/DELA chapter 3 - graphical and numerical methods|Chapter 3: graphical and numerical methods]]
+- [[DELA chapter 4 - Review of matrices]]

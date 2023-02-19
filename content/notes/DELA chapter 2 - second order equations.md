@@ -56,12 +56,33 @@ Special choice of initial condition g(0)=0 and g'(0)=1/A gives the fundamental s
 If there's no forcing term on the right-hand side, the equation is *homogeneous* and controlled by the initial conditions.
 
 When forcing terms exist, we expect a particular solution. And the complete solution $y=y_n+y_p$. What would the best forcing function? $e^{st}$!
+$$Ay''+By'+Cy=e^{st}$$
+$$y=Ye^{st}=\frac{1}{As^2+Bs+C}e^{st}$$
+The fraction Y is the **transfer function**. This is pretty neat because if the input is exponential, then a simple function transfer the input to the output y.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o93axeQJqJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Real 2nd-order equations with damping
 No resonance this time because all the coefficients are nonzero!
-$$Ay''+By'+Cy=e^{i\omega t}$$
 However, often we need the real part of the solution, or $f(t)=\cos\omega t$.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMQPt7t0bHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Solutions to 2nd-order equations
+**Undetermined coefficients** and **variation of parameters**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKYlNJhK_2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+And an example
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u_XsCvhzzbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Then comes the variation of parameters. This method requires you to know the null solutions already. And then the particular solution is just the combination of null solutions.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0f15AVSQ770" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# The Laplace transform
+The Laplace transform of $f(t)$ is
+$$F(s)=\int^{\infty}_0 f(t)e^{-st}dt$$
+Then comes the cool stuff: the Laplace transform of $\frac{dy}{dt}$ is $sY(s)-y(0)$. See the initial condition there?
+
+# See also
+[[notes/DELA chapter 1 - first order equations]]
+[[notes/DELA chapter 3 - graphical and numerical methods]]
