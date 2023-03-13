@@ -21,8 +21,6 @@ Resources: [MIT OCW](https://ocw.mit.edu/courses/res-18-009-learn-differential-e
 > At the end, a useful formula in differential equations is confirmed by the product rule, the derivative of $e^x$, and the fundamental theorem of calculus (4)
 > The key step in scientific computing is improving first order accuracy (forward differences) to second order accuracy (centered differences). For integrals, rectangle rules improve to trapezoidal rules. This is a big step to good algorithms (7)
 
-# MOC
-- [[notes/DELA chapter 1 - first order equations|Chapter 1: 1st order eqs]]
-- [[notes/DELA chapter 2 - second order equations|Chapter 2: 2nd order eqs]]
-- [[notes/DELA chapter 3 - graphical and numerical methods|Chapter 3: graphical and numerical methods]]
-- [[DELA chapter 4 - Review of matrices]]
+## Linear algebra
+It turned out my linear algebra is even more rusty
+[OCW 18.06SC](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C))
