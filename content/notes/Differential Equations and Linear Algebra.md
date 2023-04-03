@@ -5,7 +5,8 @@ aliases:
 - dela
 tags:
 - reference
-- book/textbook
+- book
+- textbook
 - math
 ---
 

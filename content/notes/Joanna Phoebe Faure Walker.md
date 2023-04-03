@@ -1,5 +1,5 @@
 ---
-title: "Joanna P. Faure Walker"
+title: "Joanna Phoebe Faure Walker"
 created: 2021-01-22
 aliases:
 - Joanna P. Faure Walker
