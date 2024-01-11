@@ -1,0 +1,3783 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/notes/Curriculum-Vitae",
+          "text": "found here"
+        },
+        {
+          "source": "/",
+          "target": "/notes/prj-banana-donut",
+          "text": "Seismic imaging"
+        },
+        {
+          "source": "/",
+          "target": "/notes/prj-tempmatch",
+          "text": "Crustal strain and seismicity"
+        },
+        {
+          "source": "/",
+          "target": "/notes/prj-eqsim",
+          "text": "Seismicity Simulations"
+        },
+        {
+          "source": "/",
+          "target": "/notes/better-built-environments",
+          "text": "Sustainability in built environments"
+        },
+        {
+          "source": "/",
+          "target": "/notes/Hiking-resume",
+          "text": "Hiking"
+        },
+        {
+          "source": "/",
+          "target": "/notes/on-cooking",
+          "text": "Cooking"
+        },
+        {
+          "source": "/",
+          "target": "/notes/coffee",
+          "text": "coffee"
+        }
+      ],
+      "/notes/1984": [
+        {
+          "source": "/notes/1984",
+          "target": "/2020-05-18-Mon",
+          "text": "2020-05-18 Mon"
+        }
+      ],
+      "/notes/Book-Shelf": [
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/Differential-Equations-and-Linear-Algebra",
+          "text": "Differential Equations and Linear Algebra"
+        },
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/Guns-germs-and-steel",
+          "text": "Guns, germs and steel"
+        },
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/1984",
+          "text": "notes/1984"
+        },
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/How-to-take-smart-notes",
+          "text": "How to take smart notes"
+        }
+      ],
+      "/notes/Brittany-A-Erickson": [
+        {
+          "source": "/notes/Brittany-A-Erickson",
+          "target": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "text": "CIG Seismic Cycles Working Group"
+        }
+      ],
+      "/notes/CIG-Seismic-Cycles-Working-Group": [
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Sylvain-D-Barbot",
+          "text": "Sylvain D Barbot"
+        },
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Luca-Dal-Zilio",
+          "text": "Luca Dal Zilio"
+        },
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Alice-Agnes-Gabriel",
+          "text": "Alice-Agnes Gabriel"
+        },
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Paul-Segall",
+          "text": "Paul Segall"
+        }
+      ],
+      "/notes/Camilla-Cattania": [
+        {
+          "source": "/notes/Camilla-Cattania",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        },
+        {
+          "source": "/notes/Camilla-Cattania",
+          "target": "/Segall2012-bk",
+          "text": "Segall and Bradley 2012"
+        }
+      ],
+      "/notes/Chartier2019-SHERIFSOpenSource": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Thomas-Chartier",
+          "text": "Thomas Chartier"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Oona-Scotti",
+          "text": "Oona Scotti"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/notes/Pace-SRL-2016-FiSH",
+          "text": "notes/Pace-SRL-2016-FiSH"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Visini2020-dr",
+          "text": "@Visini2020-dr"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/GeoJSON",
+          "text": "GeoJSON"
+        },
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Pace2016-wb",
+          "text": "FiSH"
+        }
+      ],
+      "/notes/Chi-Shang-earthquake-sequence": [
+        {
+          "source": "/notes/Chi-Shang-earthquake-sequence",
+          "target": "/daily/2022-09-17-Sat",
+          "text": "2022-09-17"
+        },
+        {
+          "source": "/notes/Chi-Shang-earthquake-sequence",
+          "target": "/daily/2022-09-18-Sun",
+          "text": "2022-09-18"
+        }
+      ],
+      "/notes/Consume-for-the-greatest-good": [
+        {
+          "source": "/notes/Consume-for-the-greatest-good",
+          "target": "/notes/Soya-and-beef-industry-in-Brazil",
+          "text": "Soya and beef industry in Brazil"
+        },
+        {
+          "source": "/notes/Consume-for-the-greatest-good",
+          "target": "/notes/Greenhouse-gas-footprint-by-diet",
+          "text": "Greenhouse-gas footprint by diet"
+        }
+      ],
+      "/notes/Coulomb-rate-and-state-model": [
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Dieterich1994-rd",
+          "text": "Dieterich1994"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Hainzl2010-ae",
+          "text": "@Hainzl2010-ae"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Camilla-Cattania",
+          "text": "Camilla Cattania"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Dieterich1994-rd",
+          "text": "@Dieterich1994-rd"
+        }
+      ],
+      "/notes/Curriculum-Vitae": [
+        {
+          "source": "/notes/Curriculum-Vitae",
+          "target": "/notes/prj-tempmatch",
+          "text": "connecting seismic sequences with physical observation"
+        },
+        {
+          "source": "/notes/Curriculum-Vitae",
+          "target": "/notes/prj-eqsim",
+          "text": "numerical models of earthquake ruptures"
+        }
+      ],
+      "/notes/DELA-chapter-1-first-order-equations": [
+        {
+          "source": "/notes/DELA-chapter-1-first-order-equations",
+          "target": "/DELA-chapter-2-second-order-equations",
+          "text": "DELA chapter 2 - second order equations"
+        }
+      ],
+      "/notes/DELA-chapter-2-second-order-equations": [
+        {
+          "source": "/notes/DELA-chapter-2-second-order-equations",
+          "target": "/complex-numbers",
+          "text": "complex numbers"
+        }
+      ],
+      "/notes/Detective-work-for-the-environment": [
+        {
+          "source": "/notes/Detective-work-for-the-environment",
+          "target": "/notes/Soya-and-beef-industry-in-Brazil",
+          "text": "notes/Soya and beef industry in Brazil"
+        },
+        {
+          "source": "/notes/Detective-work-for-the-environment",
+          "target": "/notes/Consume-for-the-greatest-good",
+          "text": "notes/Consume for the greatest good"
+        }
+      ],
+      "/notes/Dieterich-JGR-1994": [
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/James-H-Dieterich",
+          "text": "James H. Dieterich"
+        },
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/Dieterich-Tectonophysics-1992",
+          "text": "Dieterich1992"
+        },
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/rate-and-state-friction",
+          "text": "rate-and-state friction"
+        }
+      ],
+      "/notes/Differential-Equations-and-Linear-Algebra": [
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/Gilbert-Strang",
+          "text": "Gilbert Strang"
+        },
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/DELA-chapter-1-first-order-equations",
+          "text": "Chapter 1: 1st order eqs"
+        },
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/DELA-chapter-2-second-order-equations",
+          "text": "Chapter 2: 2nd order eqs"
+        }
+      ],
+      "/notes/ETAS": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/Ogata-Yosihiko-%E5%B0%BE%E5%BD%A2%E8%89%AF%E5%BD%A6",
+          "text": "Ogata Yosihiko 尾形良彦"
+        },
+        {
+          "source": "/notes/ETAS",
+          "target": "/notes/statistical-seismology",
+          "text": "notes/statistical seismology"
+        },
+        {
+          "source": "/notes/ETAS",
+          "target": "/Question",
+          "text": "Question"
+        },
+        {
+          "source": "/notes/ETAS",
+          "target": "/Leila-Mizrahi",
+          "text": "Leila Mizrahi"
+        },
+        {
+          "source": "/notes/ETAS",
+          "target": "/Shyam-Nandan",
+          "text": "Shyam Nandan"
+        }
+      ],
+      "/notes/Earthquake-forecasting-with-simulators": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/earthquake-simulator",
+          "text": "earthquake simulator"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/machine-learning",
+          "text": "machine learning"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/data-assimilation",
+          "text": "notes/data assimilation"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/RSQSim",
+          "text": "RSQSim"
+        }
+      ],
+      "/notes/Erickson-EarthArxiv-2022": [
+        {
+          "source": "/notes/Erickson-EarthArxiv-2022",
+          "target": "/notes/SEAS",
+          "text": "SEAS"
+        },
+        {
+          "source": "/notes/Erickson-EarthArxiv-2022",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Brittany A. Erickson"
+        }
+      ],
+      "/notes/Everyday-tools": [
+        {
+          "source": "/notes/Everyday-tools",
+          "target": "/notes/Huberman-said",
+          "text": "Huberman said"
+        }
+      ],
+      "/notes/Fault2FMD": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Fault2SHA",
+          "text": "Fault2SHA"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/earthquake-simulator",
+          "text": "earthquake simulator"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/SEAS",
+          "text": "SEAS"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Pace2016-wb",
+          "text": "FiSH"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Virtual-Quake",
+          "text": "Virtual Quake"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/PyLith",
+          "text": "PyLith"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Yoder2015-du",
+          "text": "@Yoder2015-du"
+        }
+      ],
+      "/notes/Field-SRL-2019": [
+        {
+          "source": "/notes/Field-SRL-2019",
+          "target": "/notes/earthquake-simulator",
+          "text": "Earthquake Simulator"
+        },
+        {
+          "source": "/notes/Field-SRL-2019",
+          "target": "/notes/earthquake-forecast",
+          "text": "Earthquake Forecast"
+        }
+      ],
+      "/notes/Field2019-fk": [
+        {
+          "source": "/notes/Field2019-fk",
+          "target": "/notes/earthquake-simulator",
+          "text": "earthquake simulators"
+        },
+        {
+          "source": "/notes/Field2019-fk",
+          "target": "/notes/earthquake-forecast",
+          "text": "forecasting earthquakes"
+        }
+      ],
+      "/notes/Foreshock-Traffic-Light-System": [
+        {
+          "source": "/notes/Foreshock-Traffic-Light-System",
+          "target": "/Stefan-Wiemer",
+          "text": "Stefan Wiemer"
+        },
+        {
+          "source": "/notes/Foreshock-Traffic-Light-System",
+          "target": "/notes/Van_der_Elst2021-cq",
+          "text": "B-positive"
+        }
+      ],
+      "/notes/Global-Earthquake-Model": [
+        {
+          "source": "/notes/Global-Earthquake-Model",
+          "target": "/notes/OpenQuake",
+          "text": "OpenQuake"
+        }
+      ],
+      "/notes/Good-coding-for-your-research": [
+        {
+          "source": "/notes/Good-coding-for-your-research",
+          "target": "/python",
+          "text": "Python"
+        },
+        {
+          "source": "/notes/Good-coding-for-your-research",
+          "target": "/fortran",
+          "text": "Fortran"
+        }
+      ],
+      "/notes/Graeme-Weatherill": [
+        {
+          "source": "/notes/Graeme-Weatherill",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/Graeme-Weatherill",
+          "target": "/2022-06-15-Wed",
+          "text": "2022-06-15 Wed"
+        }
+      ],
+      "/notes/Guns-germs-and-steel": [
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/Jared-Diamond",
+          "text": "Jared Diamond"
+        },
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/2021-01-01-Fri",
+          "text": "2021-01-01 Fri"
+        },
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/New-Zealand",
+          "text": "New Zealand"
+        }
+      ],
+      "/notes/How-to-take-smart-notes": [
+        {
+          "source": "/notes/How-to-take-smart-notes",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/Jackson-PhilosTransA-2006": [
+        {
+          "source": "/notes/Jackson-PhilosTransA-2006",
+          "target": "/notes/prj-EMME23",
+          "text": "EMME"
+        }
+      ],
+      "/notes/James-H-Dieterich": [
+        {
+          "source": "/notes/James-H-Dieterich",
+          "target": "/rate-and-state-friction",
+          "text": "rate-and-state friction"
+        },
+        {
+          "source": "/notes/James-H-Dieterich",
+          "target": "/RSQSim",
+          "text": "RSQSim"
+        }
+      ],
+      "/notes/Latex": [
+        {
+          "source": "/notes/Latex",
+          "target": "/notes/How-to-graduate-in-D-ERDW",
+          "text": "doctoral thesis"
+        },
+        {
+          "source": "/notes/Latex",
+          "target": "/notes/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/Laurentiu-Danciu": [
+        {
+          "source": "/notes/Laurentiu-Danciu",
+          "target": "/notes/OpenQuake",
+          "text": "OpenQuake"
+        },
+        {
+          "source": "/notes/Laurentiu-Danciu",
+          "target": "/notes/Global-Earthquake-Model",
+          "text": "notes/Global Earthquake Model"
+        }
+      ],
+      "/notes/Making-a-github-hosted-website": [
+        {
+          "source": "/notes/Making-a-github-hosted-website",
+          "target": "/notes/PKM",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/My-Hero-Academics": [
+        {
+          "source": "/notes/My-Hero-Academics",
+          "target": "/notes/Making-a-github-hosted-website",
+          "text": "made a website"
+        },
+        {
+          "source": "/notes/My-Hero-Academics",
+          "target": "/notes/Open-science",
+          "text": "Open science"
+        }
+      ],
+      "/notes/OpenQuake": [
+        {
+          "source": "/notes/OpenQuake",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        }
+      ],
+      "/notes/PKM": [
+        {
+          "source": "/notes/PKM",
+          "target": "/notes/Making-a-github-hosted-website",
+          "text": "static website"
+        }
+      ],
+      "/notes/PSHA": [
+        {
+          "source": "/notes/PSHA",
+          "target": "/notes/Gerstenberger-RevGeophys-2020",
+          "text": "Gerstenberger2020"
+        },
+        {
+          "source": "/notes/PSHA",
+          "target": "/OpenQuake",
+          "text": "OpenQuake"
+        }
+      ],
+      "/notes/Pace2016-wb": [
+        {
+          "source": "/notes/Pace2016-wb",
+          "target": "/Bruno-Pace",
+          "text": "Bruno Pace"
+        },
+        {
+          "source": "/notes/Pace2016-wb",
+          "target": "/Francesco-Visini",
+          "text": "Francesco Visini"
+        }
+      ],
+      "/notes/QDYN": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/Ying-di-Luo",
+          "text": "Ying-di Luo"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/Jean-Paul-Ampuero",
+          "text": "Jean-Paul Ampuero"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/Percy-Galvez-Barron",
+          "text": "Percy Galvez Barron"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/Martijn-P-A-van-den-Ende",
+          "text": "Martijn P A van den Ende"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/QDYN_github",
+          "text": "QDYN_github"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/notes/boundary-element-method",
+          "text": "boundary-element"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/fortran",
+          "text": "Fortran"
+        }
+      ],
+      "/notes/RSQSim": [
+        {
+          "source": "/notes/RSQSim",
+          "target": "/notes/rate-and-state-friction",
+          "text": "notes/rate-and-state friction"
+        },
+        {
+          "source": "/notes/RSQSim",
+          "target": "/James-H-Dieterich",
+          "text": "James H Dieterich"
+        },
+        {
+          "source": "/notes/RSQSim",
+          "target": "/Keith-B-Richards-DInger",
+          "text": "Keith B Richards-DInger"
+        },
+        {
+          "source": "/notes/RSQSim",
+          "target": "/Dieterich2010-sl",
+          "text": "@Dieterich2010-sl"
+        },
+        {
+          "source": "/notes/RSQSim",
+          "target": "/notes/Virtual-Quake",
+          "text": "Virtual Quake"
+        }
+      ],
+      "/notes/SEAS": [
+        {
+          "source": "/notes/SEAS",
+          "target": "/SCEC",
+          "text": "SCEC"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Brittany A. Erickson"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Camilla-Cattania",
+          "text": "Camilla Cattania"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Erickson, B. A."
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Erickson-EarthArxiv-2022",
+          "text": "Erickson et al."
+        }
+      ],
+      "/notes/Soya-and-beef-industry-in-Brazil": [
+        {
+          "source": "/notes/Soya-and-beef-industry-in-Brazil",
+          "target": "/notes/Greenhouse-gas-footprint-by-diet",
+          "text": "Greenhouse-gas footprint by diet"
+        }
+      ],
+      "/notes/Stefan-Wiemer": [
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "notes/probabilistic seismic hazard assessment"
+        },
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/statistical-seismology",
+          "text": "statistical seismology"
+        },
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/SED",
+          "text": "SED"
+        },
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/SED",
+          "text": "SED"
+        }
+      ],
+      "/notes/Taiwan-seismotectonics": [
+        {
+          "source": "/notes/Taiwan-seismotectonics",
+          "target": "/notes/Chi-Shang-earthquake-sequence",
+          "text": "Chi-Shang earthquake sequence"
+        },
+        {
+          "source": "/notes/Taiwan-seismotectonics",
+          "target": "/notes/Chi-chi-earthquake",
+          "text": "Chi-chi earthquake"
+        }
+      ],
+      "/notes/The-secret-of-the-synchronized-pendulums": [
+        {
+          "source": "/notes/The-secret-of-the-synchronized-pendulums",
+          "target": "/Scholz2010-rz",
+          "text": "@Scholz2010-rz"
+        }
+      ],
+      "/notes/UCERF3": [
+        {
+          "source": "/notes/UCERF3",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        }
+      ],
+      "/notes/Van_der_Elst2021-cq": [
+        {
+          "source": "/notes/Van_der_Elst2021-cq",
+          "target": "/Nicholas-J-van-der-Elst",
+          "text": "Nicholas J van der Elst"
+        }
+      ],
+      "/notes/Virtual-Quake": [
+        {
+          "source": "/notes/Virtual-Quake",
+          "target": "/Yoder2015-du",
+          "text": "@Yoder2015-du"
+        },
+        {
+          "source": "/notes/Virtual-Quake",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        }
+      ],
+      "/notes/Ylona-van-Dinther": [
+        {
+          "source": "/notes/Ylona-van-Dinther",
+          "target": "/notes/data-assimilation",
+          "text": "data assimilation"
+        },
+        {
+          "source": "/notes/Ylona-van-Dinther",
+          "target": "/notes/earthquake-simulator",
+          "text": "earthquake simulator"
+        }
+      ],
+      "/notes/better-built-environments": [
+        {
+          "source": "/notes/better-built-environments",
+          "target": "/notes/better-housing",
+          "text": "Better housing"
+        }
+      ],
+      "/notes/coffee": [
+        {
+          "source": "/notes/coffee",
+          "target": "/notes/flash-brew",
+          "text": "flash bew"
+        },
+        {
+          "source": "/notes/coffee",
+          "target": "/2022-10-08-Sat",
+          "text": "2022-10-08 Sat"
+        }
+      ],
+      "/notes/data-assimilation": [
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/notes/prj-eqsim",
+          "text": "notes/prj-eqsim"
+        },
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        },
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/notes/earthquake-simulator",
+          "text": "notes/earthquake simulator"
+        },
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/stress-drop",
+          "text": "stress drop"
+        }
+      ],
+      "/notes/data-visualization": [
+        {
+          "source": "/notes/data-visualization",
+          "target": "/notes/Nicolas-P-Rougier",
+          "text": "Nicolas P. Rougier"
+        },
+        {
+          "source": "/notes/data-visualization",
+          "target": "/notes/matplotlib",
+          "text": "matplotlib"
+        }
+      ],
+      "/notes/docker": [
+        {
+          "source": "/notes/docker",
+          "target": "/notes/preview-changes",
+          "text": "install Quartz's dependencies manually"
+        }
+      ],
+      "/notes/earthquake-forecast": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/data-assimilation",
+          "text": "data assimilation"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Hardebeck2021-hl",
+          "text": "@Hardebeck2021-hl"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Coulomb-rate-and-state-model",
+          "text": "CRS"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Dieterich1994-rd",
+          "text": "@Dieterich1994-rd"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/GNS-Science",
+          "text": "GNS Science"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Warner-Marzocchi",
+          "text": "Warner Marzocchi"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/Earthquake-forecasting-with-simulators",
+          "text": "notes/Earthquake forecasting with simulators"
+        }
+      ],
+      "/notes/earthquake-simulator": [
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/notes/Virtual-Quake",
+          "text": "Virtual Quake"
+        },
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        }
+      ],
+      "/notes/eshm20": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/notes/Laurentiu-Danciu",
+          "text": "notes/Laurentiu Danciu"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Shyam-Nandan",
+          "text": "Shyam Nandan"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Graeme-Weatherill",
+          "text": "Graeme Weatherill"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Karin-%C5%9Ee%C5%9Fetyan",
+          "text": "Karin Şeşetyan"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Stefan-Wiemer",
+          "text": "Stefan Wiemer"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Dominico-Giradini",
+          "text": "Dominico Giradini"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/",
+          "text": "report pdf"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/notes/Question",
+          "text": "Question:"
+        }
+      ],
+      "/notes/failure-resume": [
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/My-Hero-Academics",
+          "text": "hero type"
+        },
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/prj-eqsim",
+          "text": "seismicity modeling"
+        },
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/prj-tempmatch",
+          "text": "NZ seismicity project"
+        }
+      ],
+      "/notes/geothermal-energy": [
+        {
+          "source": "/notes/geothermal-energy",
+          "target": "/Geoscience-GeoEnergy-Webinar-Series",
+          "text": "Geoscience \u0026 GeoEnergy Webinar Series"
+        }
+      ],
+      "/notes/magnitude-frequency-distribution": [
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/Arnaud-Mignan",
+          "text": "Arnaud Mignan"
+        },
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/Question",
+          "text": "Question"
+        }
+      ],
+      "/notes/maps-with-python": [
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/prj-tempmatch",
+          "text": "NZ project"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/python",
+          "text": "Python"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/matplotlib",
+          "text": "matplotlib"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/Pandas",
+          "text": "Pandas"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        }
+      ],
+      "/notes/matplotlib": [
+        {
+          "source": "/notes/matplotlib",
+          "target": "/notes/Latex",
+          "text": "Latex"
+        }
+      ],
+      "/notes/modeling-earthquakes": [
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/James-H-Dieterich",
+          "text": "JH Dieterich"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/SEAS",
+          "text": "SEAS"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        }
+      ],
+      "/notes/numpy": [
+        {
+          "source": "/notes/numpy",
+          "target": "/python",
+          "text": "python"
+        },
+        {
+          "source": "/notes/numpy",
+          "target": "/notes/Nicolas-P-Rougier",
+          "text": "Nicolas P. Rougier"
+        }
+      ],
+      "/notes/parallel-computing": [
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/OpenMP",
+          "text": "OpenMP"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/python",
+          "text": "python"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/CUDA",
+          "text": "CUDA"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/OpenMP",
+          "text": "OpenMP"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/notes/fortran",
+          "text": "Fortran"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/C-and-C++",
+          "text": "C and C++"
+        }
+      ],
+      "/notes/prj-EMME23": [
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/QDYN",
+          "text": "QDYN"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/Virtual-Quake",
+          "text": "notes/Virtual Quake"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/Sesetyan2018-wy",
+          "text": "@Sesetyan2018-wy"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/eshm20",
+          "text": "ESHM20"
+        }
+      ],
+      "/notes/prj-eqsim": [
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/notes/modeling-earthquakes",
+          "text": "synthetic seismic sequence"
+        },
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/main/QDYN",
+          "text": "QDYN"
+        }
+      ],
+      "/notes/prj-strain2rate": [
+        {
+          "source": "/notes/prj-strain2rate",
+          "target": "/notes/Coulomb-rate-and-state-model",
+          "text": "CRS"
+        }
+      ],
+      "/notes/prj-tempmatch": [
+        {
+          "source": "/notes/prj-tempmatch",
+          "target": "/notes/template-matching",
+          "text": "template matching"
+        },
+        {
+          "source": "/notes/prj-tempmatch",
+          "target": "/notes/prj-strain2rate",
+          "text": "notes/prj-strain2rate"
+        }
+      ],
+      "/notes/probabilistic-seismic-hazard-assessment": [
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/notes/Gerstenberger-RevGeophys-2020",
+          "text": "Gerstenberger2020"
+        },
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/OpenQuake",
+          "text": "OpenQuake"
+        }
+      ],
+      "/notes/python": [
+        {
+          "source": "/notes/python",
+          "target": "/notes/parallel-computing",
+          "text": "notes/parallel computing"
+        },
+        {
+          "source": "/notes/python",
+          "target": "/notes/numpy",
+          "text": "NumPy"
+        },
+        {
+          "source": "/notes/python",
+          "target": "/notes/Pandas",
+          "text": "Pandas"
+        },
+        {
+          "source": "/notes/python",
+          "target": "/matplotlib",
+          "text": "matplotlib"
+        },
+        {
+          "source": "/notes/python",
+          "target": "/notes/maps-with-python",
+          "text": "Making maps"
+        }
+      ],
+      "/notes/rate-and-state-friction": [
+        {
+          "source": "/notes/rate-and-state-friction",
+          "target": "/notes/James-H-Dieterich",
+          "text": "James H. Dieterich"
+        },
+        {
+          "source": "/notes/rate-and-state-friction",
+          "target": "/Ruina1983-vc",
+          "text": "@Ruina1983-vc"
+        }
+      ],
+      "/notes/simulation-science": [
+        {
+          "source": "/notes/simulation-science",
+          "target": "/notes/prj-banana-donut",
+          "text": "master project"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/Differential-Equations-and-Linear-Algebra",
+          "text": "Differential Equations and Linear Algebra"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/notes/boundary-element-method",
+          "text": "boundary element model"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/python",
+          "text": "Python"
+        }
+      ],
+      "/notes/statistical-seismology": [
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/magnitude-frequency-distribution",
+          "text": "Magnitude-frequency distribution"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/Wells1994-sf",
+          "text": "@Wells1994-sf"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/Earthquakes-as-point-processes",
+          "text": "Earthquakes as point processes"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "Probabilistic seismic hazard assessment"
+        }
+      ]
+    },
+    "backlinks": {
+      "/": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/",
+          "text": "report pdf"
+        }
+      ],
+      "/2020-05-18-Mon": [
+        {
+          "source": "/notes/1984",
+          "target": "/2020-05-18-Mon",
+          "text": "2020-05-18 Mon"
+        }
+      ],
+      "/2021-01-01-Fri": [
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/2021-01-01-Fri",
+          "text": "2021-01-01 Fri"
+        }
+      ],
+      "/2022-06-15-Wed": [
+        {
+          "source": "/notes/Graeme-Weatherill",
+          "target": "/2022-06-15-Wed",
+          "text": "2022-06-15 Wed"
+        }
+      ],
+      "/2022-10-08-Sat": [
+        {
+          "source": "/notes/coffee",
+          "target": "/2022-10-08-Sat",
+          "text": "2022-10-08 Sat"
+        }
+      ],
+      "/Alice-Agnes-Gabriel": [
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Alice-Agnes-Gabriel",
+          "text": "Alice-Agnes Gabriel"
+        }
+      ],
+      "/Bruno-Pace": [
+        {
+          "source": "/notes/Pace2016-wb",
+          "target": "/Bruno-Pace",
+          "text": "Bruno Pace"
+        }
+      ],
+      "/C-and-C++": [
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/C-and-C++",
+          "text": "C and C++"
+        }
+      ],
+      "/CUDA": [
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/CUDA",
+          "text": "CUDA"
+        }
+      ],
+      "/Coulomb-rate-and-state-model": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Coulomb-rate-and-state-model",
+          "text": "CRS"
+        }
+      ],
+      "/DELA-chapter-2-second-order-equations": [
+        {
+          "source": "/notes/DELA-chapter-1-first-order-equations",
+          "target": "/DELA-chapter-2-second-order-equations",
+          "text": "DELA chapter 2 - second order equations"
+        }
+      ],
+      "/Dieterich1994-rd": [
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Dieterich1994-rd",
+          "text": "Dieterich1994"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Dieterich1994-rd",
+          "text": "@Dieterich1994-rd"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Dieterich1994-rd",
+          "text": "@Dieterich1994-rd"
+        }
+      ],
+      "/Dieterich2010-sl": [
+        {
+          "source": "/notes/RSQSim",
+          "target": "/Dieterich2010-sl",
+          "text": "@Dieterich2010-sl"
+        }
+      ],
+      "/Differential-Equations-and-Linear-Algebra": [
+        {
+          "source": "/notes/simulation-science",
+          "target": "/Differential-Equations-and-Linear-Algebra",
+          "text": "Differential Equations and Linear Algebra"
+        }
+      ],
+      "/Dominico-Giradini": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/Dominico-Giradini",
+          "text": "Dominico Giradini"
+        }
+      ],
+      "/Earthquakes-as-point-processes": [
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/Earthquakes-as-point-processes",
+          "text": "Earthquakes as point processes"
+        }
+      ],
+      "/Fault2SHA": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Fault2SHA",
+          "text": "Fault2SHA"
+        }
+      ],
+      "/Francesco-Visini": [
+        {
+          "source": "/notes/Pace2016-wb",
+          "target": "/Francesco-Visini",
+          "text": "Francesco Visini"
+        }
+      ],
+      "/GNS-Science": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/GNS-Science",
+          "text": "GNS Science"
+        }
+      ],
+      "/GeoJSON": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/GeoJSON",
+          "text": "GeoJSON"
+        }
+      ],
+      "/Geoscience-GeoEnergy-Webinar-Series": [
+        {
+          "source": "/notes/geothermal-energy",
+          "target": "/Geoscience-GeoEnergy-Webinar-Series",
+          "text": "Geoscience \u0026 GeoEnergy Webinar Series"
+        }
+      ],
+      "/Graeme-Weatherill": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/Graeme-Weatherill",
+          "text": "Graeme Weatherill"
+        }
+      ],
+      "/Hainzl2010-ae": [
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/Hainzl2010-ae",
+          "text": "@Hainzl2010-ae"
+        }
+      ],
+      "/Hardebeck2021-hl": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Hardebeck2021-hl",
+          "text": "@Hardebeck2021-hl"
+        }
+      ],
+      "/James-H-Dieterich": [
+        {
+          "source": "/notes/RSQSim",
+          "target": "/James-H-Dieterich",
+          "text": "James H Dieterich"
+        }
+      ],
+      "/Jared-Diamond": [
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/Jared-Diamond",
+          "text": "Jared Diamond"
+        }
+      ],
+      "/Jean-Paul-Ampuero": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/Jean-Paul-Ampuero",
+          "text": "Jean-Paul Ampuero"
+        }
+      ],
+      "/Karin-%C5%9Ee%C5%9Fetyan": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/Karin-%C5%9Ee%C5%9Fetyan",
+          "text": "Karin Şeşetyan"
+        }
+      ],
+      "/Keith-B-Richards-DInger": [
+        {
+          "source": "/notes/RSQSim",
+          "target": "/Keith-B-Richards-DInger",
+          "text": "Keith B Richards-DInger"
+        }
+      ],
+      "/Leila-Mizrahi": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/Leila-Mizrahi",
+          "text": "Leila Mizrahi"
+        }
+      ],
+      "/Luca-Dal-Zilio": [
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Luca-Dal-Zilio",
+          "text": "Luca Dal Zilio"
+        }
+      ],
+      "/Martijn-P-A-van-den-Ende": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/Martijn-P-A-van-den-Ende",
+          "text": "Martijn P A van den Ende"
+        }
+      ],
+      "/New-Zealand": [
+        {
+          "source": "/notes/Guns-germs-and-steel",
+          "target": "/New-Zealand",
+          "text": "New Zealand"
+        }
+      ],
+      "/Nicholas-J-van-der-Elst": [
+        {
+          "source": "/notes/Van_der_Elst2021-cq",
+          "target": "/Nicholas-J-van-der-Elst",
+          "text": "Nicholas J van der Elst"
+        }
+      ],
+      "/Obsidian": [
+        {
+          "source": "/notes/How-to-take-smart-notes",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/Ogata-Yosihiko-%E5%B0%BE%E5%BD%A2%E8%89%AF%E5%BD%A6": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/Ogata-Yosihiko-%E5%B0%BE%E5%BD%A2%E8%89%AF%E5%BD%A6",
+          "text": "Ogata Yosihiko 尾形良彦"
+        }
+      ],
+      "/Oona-Scotti": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Oona-Scotti",
+          "text": "Oona Scotti"
+        }
+      ],
+      "/OpenMP": [
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/OpenMP",
+          "text": "OpenMP"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/OpenMP",
+          "text": "OpenMP"
+        }
+      ],
+      "/OpenQuake": [
+        {
+          "source": "/notes/PSHA",
+          "target": "/OpenQuake",
+          "text": "OpenQuake"
+        },
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/OpenQuake",
+          "text": "OpenQuake"
+        }
+      ],
+      "/Pace2016-wb": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Pace2016-wb",
+          "text": "FiSH"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Pace2016-wb",
+          "text": "FiSH"
+        }
+      ],
+      "/Paul-Segall": [
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Paul-Segall",
+          "text": "Paul Segall"
+        }
+      ],
+      "/Percy-Galvez-Barron": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/Percy-Galvez-Barron",
+          "text": "Percy Galvez Barron"
+        }
+      ],
+      "/PyLith": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/PyLith",
+          "text": "PyLith"
+        }
+      ],
+      "/QDYN_github": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/QDYN_github",
+          "text": "QDYN_github"
+        }
+      ],
+      "/Question": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/Question",
+          "text": "Question"
+        }
+      ],
+      "/RSQSim": [
+        {
+          "source": "/notes/James-H-Dieterich",
+          "target": "/RSQSim",
+          "text": "RSQSim"
+        }
+      ],
+      "/Ruina1983-vc": [
+        {
+          "source": "/notes/rate-and-state-friction",
+          "target": "/Ruina1983-vc",
+          "text": "@Ruina1983-vc"
+        }
+      ],
+      "/SCEC": [
+        {
+          "source": "/notes/SEAS",
+          "target": "/SCEC",
+          "text": "SCEC"
+        }
+      ],
+      "/SEAS": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/SEAS",
+          "text": "SEAS"
+        }
+      ],
+      "/SED": [
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/SED",
+          "text": "SED"
+        },
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/SED",
+          "text": "SED"
+        }
+      ],
+      "/Sachs2012-mb": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        },
+        {
+          "source": "/notes/Virtual-Quake",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        },
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/Sachs2012-mb",
+          "text": "@Sachs2012-mb"
+        }
+      ],
+      "/Scholz2010-rz": [
+        {
+          "source": "/notes/The-secret-of-the-synchronized-pendulums",
+          "target": "/Scholz2010-rz",
+          "text": "@Scholz2010-rz"
+        }
+      ],
+      "/Segall2012-bk": [
+        {
+          "source": "/notes/Camilla-Cattania",
+          "target": "/Segall2012-bk",
+          "text": "Segall and Bradley 2012"
+        }
+      ],
+      "/Sesetyan2018-wy": [
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/Sesetyan2018-wy",
+          "text": "@Sesetyan2018-wy"
+        }
+      ],
+      "/Shyam-Nandan": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/Shyam-Nandan",
+          "text": "Shyam Nandan"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Shyam-Nandan",
+          "text": "Shyam Nandan"
+        }
+      ],
+      "/Stefan-Wiemer": [
+        {
+          "source": "/notes/Foreshock-Traffic-Light-System",
+          "target": "/Stefan-Wiemer",
+          "text": "Stefan Wiemer"
+        },
+        {
+          "source": "/notes/eshm20",
+          "target": "/Stefan-Wiemer",
+          "text": "Stefan Wiemer"
+        }
+      ],
+      "/Sylvain-D-Barbot": [
+        {
+          "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "target": "/Sylvain-D-Barbot",
+          "text": "Sylvain D Barbot"
+        }
+      ],
+      "/Thomas-Chartier": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Thomas-Chartier",
+          "text": "Thomas Chartier"
+        }
+      ],
+      "/Virtual-Quake": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Virtual-Quake",
+          "text": "Virtual Quake"
+        }
+      ],
+      "/Visini2020-dr": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/Visini2020-dr",
+          "text": "@Visini2020-dr"
+        }
+      ],
+      "/Warner-Marzocchi": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/Warner-Marzocchi",
+          "text": "Warner Marzocchi"
+        }
+      ],
+      "/Wells1994-sf": [
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/Wells1994-sf",
+          "text": "@Wells1994-sf"
+        }
+      ],
+      "/Ying-di-Luo": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/Ying-di-Luo",
+          "text": "Ying-di Luo"
+        }
+      ],
+      "/Ylona-van-Dinther": [
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        }
+      ],
+      "/Yoder2015-du": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/Yoder2015-du",
+          "text": "@Yoder2015-du"
+        },
+        {
+          "source": "/notes/Virtual-Quake",
+          "target": "/Yoder2015-du",
+          "text": "@Yoder2015-du"
+        }
+      ],
+      "/complex-numbers": [
+        {
+          "source": "/notes/DELA-chapter-2-second-order-equations",
+          "target": "/complex-numbers",
+          "text": "complex numbers"
+        }
+      ],
+      "/daily/2022-09-17-Sat": [
+        {
+          "source": "/notes/Chi-Shang-earthquake-sequence",
+          "target": "/daily/2022-09-17-Sat",
+          "text": "2022-09-17"
+        }
+      ],
+      "/daily/2022-09-18-Sun": [
+        {
+          "source": "/notes/Chi-Shang-earthquake-sequence",
+          "target": "/daily/2022-09-18-Sun",
+          "text": "2022-09-18"
+        }
+      ],
+      "/earthquake-simulator": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/earthquake-simulator",
+          "text": "earthquake simulator"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/earthquake-simulator",
+          "text": "earthquake simulator"
+        }
+      ],
+      "/fortran": [
+        {
+          "source": "/notes/Good-coding-for-your-research",
+          "target": "/fortran",
+          "text": "Fortran"
+        },
+        {
+          "source": "/notes/QDYN",
+          "target": "/fortran",
+          "text": "Fortran"
+        }
+      ],
+      "/machine-learning": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/machine-learning",
+          "text": "machine learning"
+        }
+      ],
+      "/main/QDYN": [
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/main/QDYN",
+          "text": "QDYN"
+        }
+      ],
+      "/matplotlib": [
+        {
+          "source": "/notes/python",
+          "target": "/matplotlib",
+          "text": "matplotlib"
+        }
+      ],
+      "/notes/1984": [
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/1984",
+          "text": "notes/1984"
+        }
+      ],
+      "/notes/Arnaud-Mignan": [
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/Arnaud-Mignan",
+          "text": "Arnaud Mignan"
+        }
+      ],
+      "/notes/Brittany-A-Erickson": [
+        {
+          "source": "/notes/Erickson-EarthArxiv-2022",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Brittany A. Erickson"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Brittany A. Erickson"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Brittany-A-Erickson",
+          "text": "Erickson, B. A."
+        }
+      ],
+      "/notes/CIG-Seismic-Cycles-Working-Group": [
+        {
+          "source": "/notes/Brittany-A-Erickson",
+          "target": "/notes/CIG-Seismic-Cycles-Working-Group",
+          "text": "CIG Seismic Cycles Working Group"
+        }
+      ],
+      "/notes/Camilla-Cattania": [
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Camilla-Cattania",
+          "text": "Camilla Cattania"
+        },
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Camilla-Cattania",
+          "text": "Camilla Cattania"
+        }
+      ],
+      "/notes/Chartier2019-SHERIFSOpenSource": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/Chartier2019-SHERIFSOpenSource",
+          "text": "SHERIFS"
+        }
+      ],
+      "/notes/Chi-Shang-earthquake-sequence": [
+        {
+          "source": "/notes/Taiwan-seismotectonics",
+          "target": "/notes/Chi-Shang-earthquake-sequence",
+          "text": "Chi-Shang earthquake sequence"
+        }
+      ],
+      "/notes/Chi-chi-earthquake": [
+        {
+          "source": "/notes/Taiwan-seismotectonics",
+          "target": "/notes/Chi-chi-earthquake",
+          "text": "Chi-chi earthquake"
+        }
+      ],
+      "/notes/Consume-for-the-greatest-good": [
+        {
+          "source": "/notes/Detective-work-for-the-environment",
+          "target": "/notes/Consume-for-the-greatest-good",
+          "text": "notes/Consume for the greatest good"
+        }
+      ],
+      "/notes/Coulomb-rate-and-state-model": [
+        {
+          "source": "/notes/prj-strain2rate",
+          "target": "/notes/Coulomb-rate-and-state-model",
+          "text": "CRS"
+        }
+      ],
+      "/notes/Curriculum-Vitae": [
+        {
+          "source": "/",
+          "target": "/notes/Curriculum-Vitae",
+          "text": "found here"
+        }
+      ],
+      "/notes/DELA-chapter-1-first-order-equations": [
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/DELA-chapter-1-first-order-equations",
+          "text": "Chapter 1: 1st order eqs"
+        }
+      ],
+      "/notes/DELA-chapter-2-second-order-equations": [
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/DELA-chapter-2-second-order-equations",
+          "text": "Chapter 2: 2nd order eqs"
+        }
+      ],
+      "/notes/Dieterich-Tectonophysics-1992": [
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/Dieterich-Tectonophysics-1992",
+          "text": "Dieterich1992"
+        }
+      ],
+      "/notes/Differential-Equations-and-Linear-Algebra": [
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/Differential-Equations-and-Linear-Algebra",
+          "text": "Differential Equations and Linear Algebra"
+        }
+      ],
+      "/notes/ETAS": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/ETAS",
+          "text": "ETAS"
+        }
+      ],
+      "/notes/Earthquake-forecasting-with-simulators": [
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/Earthquake-forecasting-with-simulators",
+          "text": "notes/Earthquake forecasting with simulators"
+        }
+      ],
+      "/notes/Erickson-EarthArxiv-2022": [
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Erickson-EarthArxiv-2022",
+          "text": "Erickson et al."
+        }
+      ],
+      "/notes/Gerstenberger-RevGeophys-2020": [
+        {
+          "source": "/notes/PSHA",
+          "target": "/notes/Gerstenberger-RevGeophys-2020",
+          "text": "Gerstenberger2020"
+        },
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/notes/Gerstenberger-RevGeophys-2020",
+          "text": "Gerstenberger2020"
+        }
+      ],
+      "/notes/Gilbert-Strang": [
+        {
+          "source": "/notes/Differential-Equations-and-Linear-Algebra",
+          "target": "/notes/Gilbert-Strang",
+          "text": "Gilbert Strang"
+        }
+      ],
+      "/notes/Global-Earthquake-Model": [
+        {
+          "source": "/notes/Laurentiu-Danciu",
+          "target": "/notes/Global-Earthquake-Model",
+          "text": "notes/Global Earthquake Model"
+        }
+      ],
+      "/notes/Greenhouse-gas-footprint-by-diet": [
+        {
+          "source": "/notes/Consume-for-the-greatest-good",
+          "target": "/notes/Greenhouse-gas-footprint-by-diet",
+          "text": "Greenhouse-gas footprint by diet"
+        },
+        {
+          "source": "/notes/Soya-and-beef-industry-in-Brazil",
+          "target": "/notes/Greenhouse-gas-footprint-by-diet",
+          "text": "Greenhouse-gas footprint by diet"
+        }
+      ],
+      "/notes/Guns-germs-and-steel": [
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/Guns-germs-and-steel",
+          "text": "Guns, germs and steel"
+        }
+      ],
+      "/notes/Hiking-resume": [
+        {
+          "source": "/",
+          "target": "/notes/Hiking-resume",
+          "text": "Hiking"
+        }
+      ],
+      "/notes/How-to-graduate-in-D-ERDW": [
+        {
+          "source": "/notes/Latex",
+          "target": "/notes/How-to-graduate-in-D-ERDW",
+          "text": "doctoral thesis"
+        }
+      ],
+      "/notes/How-to-take-smart-notes": [
+        {
+          "source": "/notes/Book-Shelf",
+          "target": "/notes/How-to-take-smart-notes",
+          "text": "How to take smart notes"
+        }
+      ],
+      "/notes/Huberman-said": [
+        {
+          "source": "/notes/Everyday-tools",
+          "target": "/notes/Huberman-said",
+          "text": "Huberman said"
+        }
+      ],
+      "/notes/James-H-Dieterich": [
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/James-H-Dieterich",
+          "text": "James H. Dieterich"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/James-H-Dieterich",
+          "text": "JH Dieterich"
+        },
+        {
+          "source": "/notes/rate-and-state-friction",
+          "target": "/notes/James-H-Dieterich",
+          "text": "James H. Dieterich"
+        }
+      ],
+      "/notes/Latex": [
+        {
+          "source": "/notes/matplotlib",
+          "target": "/notes/Latex",
+          "text": "Latex"
+        }
+      ],
+      "/notes/Laurentiu-Danciu": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/notes/Laurentiu-Danciu",
+          "text": "notes/Laurentiu Danciu"
+        }
+      ],
+      "/notes/Making-a-github-hosted-website": [
+        {
+          "source": "/notes/My-Hero-Academics",
+          "target": "/notes/Making-a-github-hosted-website",
+          "text": "made a website"
+        },
+        {
+          "source": "/notes/PKM",
+          "target": "/notes/Making-a-github-hosted-website",
+          "text": "static website"
+        }
+      ],
+      "/notes/My-Hero-Academics": [
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/My-Hero-Academics",
+          "text": "hero type"
+        }
+      ],
+      "/notes/Nicolas-P-Rougier": [
+        {
+          "source": "/notes/data-visualization",
+          "target": "/notes/Nicolas-P-Rougier",
+          "text": "Nicolas P. Rougier"
+        },
+        {
+          "source": "/notes/numpy",
+          "target": "/notes/Nicolas-P-Rougier",
+          "text": "Nicolas P. Rougier"
+        }
+      ],
+      "/notes/Obsidian": [
+        {
+          "source": "/notes/Latex",
+          "target": "/notes/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/Open-science": [
+        {
+          "source": "/notes/My-Hero-Academics",
+          "target": "/notes/Open-science",
+          "text": "Open science"
+        }
+      ],
+      "/notes/OpenQuake": [
+        {
+          "source": "/notes/Global-Earthquake-Model",
+          "target": "/notes/OpenQuake",
+          "text": "OpenQuake"
+        },
+        {
+          "source": "/notes/Laurentiu-Danciu",
+          "target": "/notes/OpenQuake",
+          "text": "OpenQuake"
+        }
+      ],
+      "/notes/PKM": [
+        {
+          "source": "/notes/Making-a-github-hosted-website",
+          "target": "/notes/PKM",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/Pace-SRL-2016-FiSH": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/notes/Pace-SRL-2016-FiSH",
+          "text": "notes/Pace-SRL-2016-FiSH"
+        }
+      ],
+      "/notes/Pandas": [
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/Pandas",
+          "text": "Pandas"
+        },
+        {
+          "source": "/notes/python",
+          "target": "/notes/Pandas",
+          "text": "Pandas"
+        }
+      ],
+      "/notes/QDYN": [
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/QDYN",
+          "text": "QDYN"
+        }
+      ],
+      "/notes/Question": [
+        {
+          "source": "/notes/eshm20",
+          "target": "/notes/Question",
+          "text": "Question:"
+        },
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/Question",
+          "text": "Question"
+        }
+      ],
+      "/notes/RSQSim": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/RSQSim",
+          "text": "RSQSim"
+        }
+      ],
+      "/notes/SEAS": [
+        {
+          "source": "/notes/Erickson-EarthArxiv-2022",
+          "target": "/notes/SEAS",
+          "text": "SEAS"
+        },
+        {
+          "source": "/notes/modeling-earthquakes",
+          "target": "/notes/SEAS",
+          "text": "SEAS"
+        }
+      ],
+      "/notes/Sebastian-Hainzl": [
+        {
+          "source": "/notes/Camilla-Cattania",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        },
+        {
+          "source": "/notes/Coulomb-rate-and-state-model",
+          "target": "/notes/Sebastian-Hainzl",
+          "text": "Sebastian Hainzl"
+        }
+      ],
+      "/notes/Soya-and-beef-industry-in-Brazil": [
+        {
+          "source": "/notes/Consume-for-the-greatest-good",
+          "target": "/notes/Soya-and-beef-industry-in-Brazil",
+          "text": "Soya and beef industry in Brazil"
+        },
+        {
+          "source": "/notes/Detective-work-for-the-environment",
+          "target": "/notes/Soya-and-beef-industry-in-Brazil",
+          "text": "notes/Soya and beef industry in Brazil"
+        }
+      ],
+      "/notes/UCERF3": [
+        {
+          "source": "/notes/Chartier2019-SHERIFSOpenSource",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        },
+        {
+          "source": "/notes/probabilistic-seismic-hazard-assessment",
+          "target": "/notes/UCERF3",
+          "text": "UCERF3"
+        }
+      ],
+      "/notes/Van_der_Elst2021-cq": [
+        {
+          "source": "/notes/Foreshock-Traffic-Light-System",
+          "target": "/notes/Van_der_Elst2021-cq",
+          "text": "B-positive"
+        }
+      ],
+      "/notes/Virtual-Quake": [
+        {
+          "source": "/notes/RSQSim",
+          "target": "/notes/Virtual-Quake",
+          "text": "Virtual Quake"
+        },
+        {
+          "source": "/notes/earthquake-simulator",
+          "target": "/notes/Virtual-Quake",
+          "text": "Virtual Quake"
+        },
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/Virtual-Quake",
+          "text": "notes/Virtual Quake"
+        }
+      ],
+      "/notes/Ylona-van-Dinther": [
+        {
+          "source": "/notes/SEAS",
+          "target": "/notes/Ylona-van-Dinther",
+          "text": "Ylona van Dinther"
+        }
+      ],
+      "/notes/better-built-environments": [
+        {
+          "source": "/",
+          "target": "/notes/better-built-environments",
+          "text": "Sustainability in built environments"
+        }
+      ],
+      "/notes/better-housing": [
+        {
+          "source": "/notes/better-built-environments",
+          "target": "/notes/better-housing",
+          "text": "Better housing"
+        }
+      ],
+      "/notes/boundary-element-method": [
+        {
+          "source": "/notes/QDYN",
+          "target": "/notes/boundary-element-method",
+          "text": "boundary-element"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/notes/boundary-element-method",
+          "text": "boundary element model"
+        }
+      ],
+      "/notes/coffee": [
+        {
+          "source": "/",
+          "target": "/notes/coffee",
+          "text": "coffee"
+        }
+      ],
+      "/notes/data-assimilation": [
+        {
+          "source": "/notes/Earthquake-forecasting-with-simulators",
+          "target": "/notes/data-assimilation",
+          "text": "notes/data assimilation"
+        },
+        {
+          "source": "/notes/Ylona-van-Dinther",
+          "target": "/notes/data-assimilation",
+          "text": "data assimilation"
+        },
+        {
+          "source": "/notes/earthquake-forecast",
+          "target": "/notes/data-assimilation",
+          "text": "data assimilation"
+        }
+      ],
+      "/notes/earthquake-forecast": [
+        {
+          "source": "/notes/Field2019-fk",
+          "target": "/notes/earthquake-forecast",
+          "text": "forecasting earthquakes"
+        },
+        {
+          "source": "/notes/Field-SRL-2019",
+          "target": "/notes/earthquake-forecast",
+          "text": "Earthquake Forecast"
+        }
+      ],
+      "/notes/earthquake-simulator": [
+        {
+          "source": "/notes/Field2019-fk",
+          "target": "/notes/earthquake-simulator",
+          "text": "earthquake simulators"
+        },
+        {
+          "source": "/notes/Field-SRL-2019",
+          "target": "/notes/earthquake-simulator",
+          "text": "Earthquake Simulator"
+        },
+        {
+          "source": "/notes/Ylona-van-Dinther",
+          "target": "/notes/earthquake-simulator",
+          "text": "earthquake simulator"
+        },
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/notes/earthquake-simulator",
+          "text": "notes/earthquake simulator"
+        }
+      ],
+      "/notes/eshm20": [
+        {
+          "source": "/notes/prj-EMME23",
+          "target": "/notes/eshm20",
+          "text": "ESHM20"
+        }
+      ],
+      "/notes/flash-brew": [
+        {
+          "source": "/notes/coffee",
+          "target": "/notes/flash-brew",
+          "text": "flash bew"
+        }
+      ],
+      "/notes/fortran": [
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/notes/fortran",
+          "text": "Fortran"
+        }
+      ],
+      "/notes/magnitude-frequency-distribution": [
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/magnitude-frequency-distribution",
+          "text": "Magnitude-frequency distribution"
+        }
+      ],
+      "/notes/maps-with-python": [
+        {
+          "source": "/notes/python",
+          "target": "/notes/maps-with-python",
+          "text": "Making maps"
+        }
+      ],
+      "/notes/matplotlib": [
+        {
+          "source": "/notes/data-visualization",
+          "target": "/notes/matplotlib",
+          "text": "matplotlib"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/matplotlib",
+          "text": "matplotlib"
+        }
+      ],
+      "/notes/modeling-earthquakes": [
+        {
+          "source": "/notes/prj-eqsim",
+          "target": "/notes/modeling-earthquakes",
+          "text": "synthetic seismic sequence"
+        }
+      ],
+      "/notes/numpy": [
+        {
+          "source": "/notes/python",
+          "target": "/notes/numpy",
+          "text": "NumPy"
+        }
+      ],
+      "/notes/on-cooking": [
+        {
+          "source": "/",
+          "target": "/notes/on-cooking",
+          "text": "Cooking"
+        }
+      ],
+      "/notes/parallel-computing": [
+        {
+          "source": "/notes/python",
+          "target": "/notes/parallel-computing",
+          "text": "notes/parallel computing"
+        }
+      ],
+      "/notes/preview-changes": [
+        {
+          "source": "/notes/docker",
+          "target": "/notes/preview-changes",
+          "text": "install Quartz's dependencies manually"
+        }
+      ],
+      "/notes/prj-EMME23": [
+        {
+          "source": "/notes/Jackson-PhilosTransA-2006",
+          "target": "/notes/prj-EMME23",
+          "text": "EMME"
+        }
+      ],
+      "/notes/prj-banana-donut": [
+        {
+          "source": "/",
+          "target": "/notes/prj-banana-donut",
+          "text": "Seismic imaging"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/notes/prj-banana-donut",
+          "text": "master project"
+        }
+      ],
+      "/notes/prj-eqsim": [
+        {
+          "source": "/",
+          "target": "/notes/prj-eqsim",
+          "text": "Seismicity Simulations"
+        },
+        {
+          "source": "/notes/Curriculum-Vitae",
+          "target": "/notes/prj-eqsim",
+          "text": "numerical models of earthquake ruptures"
+        },
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/notes/prj-eqsim",
+          "text": "notes/prj-eqsim"
+        },
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/prj-eqsim",
+          "text": "seismicity modeling"
+        }
+      ],
+      "/notes/prj-strain2rate": [
+        {
+          "source": "/notes/prj-tempmatch",
+          "target": "/notes/prj-strain2rate",
+          "text": "notes/prj-strain2rate"
+        }
+      ],
+      "/notes/prj-tempmatch": [
+        {
+          "source": "/",
+          "target": "/notes/prj-tempmatch",
+          "text": "Crustal strain and seismicity"
+        },
+        {
+          "source": "/notes/Curriculum-Vitae",
+          "target": "/notes/prj-tempmatch",
+          "text": "connecting seismic sequences with physical observation"
+        },
+        {
+          "source": "/notes/failure-resume",
+          "target": "/notes/prj-tempmatch",
+          "text": "NZ seismicity project"
+        },
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/prj-tempmatch",
+          "text": "NZ project"
+        }
+      ],
+      "/notes/probabilistic-seismic-hazard-assessment": [
+        {
+          "source": "/notes/Fault2FMD",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/Graeme-Weatherill",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/OpenQuake",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "notes/probabilistic seismic hazard assessment"
+        },
+        {
+          "source": "/notes/UCERF3",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/magnitude-frequency-distribution",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "PSHA"
+        },
+        {
+          "source": "/notes/statistical-seismology",
+          "target": "/notes/probabilistic-seismic-hazard-assessment",
+          "text": "Probabilistic seismic hazard assessment"
+        }
+      ],
+      "/notes/python": [
+        {
+          "source": "/notes/maps-with-python",
+          "target": "/notes/python",
+          "text": "Python"
+        }
+      ],
+      "/notes/rate-and-state-friction": [
+        {
+          "source": "/notes/Dieterich-JGR-1994",
+          "target": "/notes/rate-and-state-friction",
+          "text": "rate-and-state friction"
+        },
+        {
+          "source": "/notes/RSQSim",
+          "target": "/notes/rate-and-state-friction",
+          "text": "notes/rate-and-state friction"
+        }
+      ],
+      "/notes/statistical-seismology": [
+        {
+          "source": "/notes/ETAS",
+          "target": "/notes/statistical-seismology",
+          "text": "notes/statistical seismology"
+        }
+      ],
+      "/notes/template-matching": [
+        {
+          "source": "/notes/prj-tempmatch",
+          "target": "/notes/template-matching",
+          "text": "template matching"
+        }
+      ],
+      "/python": [
+        {
+          "source": "/notes/Good-coding-for-your-research",
+          "target": "/python",
+          "text": "Python"
+        },
+        {
+          "source": "/notes/numpy",
+          "target": "/python",
+          "text": "python"
+        },
+        {
+          "source": "/notes/parallel-computing",
+          "target": "/python",
+          "text": "python"
+        },
+        {
+          "source": "/notes/simulation-science",
+          "target": "/python",
+          "text": "Python"
+        }
+      ],
+      "/rate-and-state-friction": [
+        {
+          "source": "/notes/James-H-Dieterich",
+          "target": "/rate-and-state-friction",
+          "text": "rate-and-state friction"
+        }
+      ],
+      "/statistical-seismology": [
+        {
+          "source": "/notes/Stefan-Wiemer",
+          "target": "/statistical-seismology",
+          "text": "statistical seismology"
+        }
+      ],
+      "/stress-drop": [
+        {
+          "source": "/notes/data-assimilation",
+          "target": "/stress-drop",
+          "text": "stress drop"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/",
+      "target": "/notes/Curriculum-Vitae",
+      "text": "found here"
+    },
+    {
+      "source": "/",
+      "target": "/notes/prj-banana-donut",
+      "text": "Seismic imaging"
+    },
+    {
+      "source": "/",
+      "target": "/notes/prj-tempmatch",
+      "text": "Crustal strain and seismicity"
+    },
+    {
+      "source": "/",
+      "target": "/notes/prj-eqsim",
+      "text": "Seismicity Simulations"
+    },
+    {
+      "source": "/",
+      "target": "/notes/better-built-environments",
+      "text": "Sustainability in built environments"
+    },
+    {
+      "source": "/",
+      "target": "/notes/Hiking-resume",
+      "text": "Hiking"
+    },
+    {
+      "source": "/",
+      "target": "/notes/on-cooking",
+      "text": "Cooking"
+    },
+    {
+      "source": "/",
+      "target": "/notes/coffee",
+      "text": "coffee"
+    },
+    {
+      "source": "/notes/1984",
+      "target": "/2020-05-18-Mon",
+      "text": "2020-05-18 Mon"
+    },
+    {
+      "source": "/notes/Field2019-fk",
+      "target": "/notes/earthquake-simulator",
+      "text": "earthquake simulators"
+    },
+    {
+      "source": "/notes/Field2019-fk",
+      "target": "/notes/earthquake-forecast",
+      "text": "forecasting earthquakes"
+    },
+    {
+      "source": "/notes/Pace2016-wb",
+      "target": "/Bruno-Pace",
+      "text": "Bruno Pace"
+    },
+    {
+      "source": "/notes/Pace2016-wb",
+      "target": "/Francesco-Visini",
+      "text": "Francesco Visini"
+    },
+    {
+      "source": "/notes/Book-Shelf",
+      "target": "/notes/Differential-Equations-and-Linear-Algebra",
+      "text": "Differential Equations and Linear Algebra"
+    },
+    {
+      "source": "/notes/Book-Shelf",
+      "target": "/notes/Guns-germs-and-steel",
+      "text": "Guns, germs and steel"
+    },
+    {
+      "source": "/notes/Book-Shelf",
+      "target": "/notes/1984",
+      "text": "notes/1984"
+    },
+    {
+      "source": "/notes/Book-Shelf",
+      "target": "/notes/How-to-take-smart-notes",
+      "text": "How to take smart notes"
+    },
+    {
+      "source": "/notes/Brittany-A-Erickson",
+      "target": "/notes/CIG-Seismic-Cycles-Working-Group",
+      "text": "CIG Seismic Cycles Working Group"
+    },
+    {
+      "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+      "target": "/Sylvain-D-Barbot",
+      "text": "Sylvain D Barbot"
+    },
+    {
+      "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+      "target": "/Luca-Dal-Zilio",
+      "text": "Luca Dal Zilio"
+    },
+    {
+      "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+      "target": "/Alice-Agnes-Gabriel",
+      "text": "Alice-Agnes Gabriel"
+    },
+    {
+      "source": "/notes/CIG-Seismic-Cycles-Working-Group",
+      "target": "/Paul-Segall",
+      "text": "Paul Segall"
+    },
+    {
+      "source": "/notes/Camilla-Cattania",
+      "target": "/notes/Sebastian-Hainzl",
+      "text": "Sebastian Hainzl"
+    },
+    {
+      "source": "/notes/Camilla-Cattania",
+      "target": "/Segall2012-bk",
+      "text": "Segall and Bradley 2012"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/Thomas-Chartier",
+      "text": "Thomas Chartier"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/Oona-Scotti",
+      "text": "Oona Scotti"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/notes/UCERF3",
+      "text": "UCERF3"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/notes/Pace-SRL-2016-FiSH",
+      "text": "notes/Pace-SRL-2016-FiSH"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/Visini2020-dr",
+      "text": "@Visini2020-dr"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/GeoJSON",
+      "text": "GeoJSON"
+    },
+    {
+      "source": "/notes/Chartier2019-SHERIFSOpenSource",
+      "target": "/Pace2016-wb",
+      "text": "FiSH"
+    },
+    {
+      "source": "/notes/Chi-Shang-earthquake-sequence",
+      "target": "/daily/2022-09-17-Sat",
+      "text": "2022-09-17"
+    },
+    {
+      "source": "/notes/Chi-Shang-earthquake-sequence",
+      "target": "/daily/2022-09-18-Sun",
+      "text": "2022-09-18"
+    },
+    {
+      "source": "/notes/Consume-for-the-greatest-good",
+      "target": "/notes/Soya-and-beef-industry-in-Brazil",
+      "text": "Soya and beef industry in Brazil"
+    },
+    {
+      "source": "/notes/Consume-for-the-greatest-good",
+      "target": "/notes/Greenhouse-gas-footprint-by-diet",
+      "text": "Greenhouse-gas footprint by diet"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/Dieterich1994-rd",
+      "text": "Dieterich1994"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/notes/Sebastian-Hainzl",
+      "text": "Sebastian Hainzl"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/Hainzl2010-ae",
+      "text": "@Hainzl2010-ae"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/notes/Camilla-Cattania",
+      "text": "Camilla Cattania"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/notes/Sebastian-Hainzl",
+      "text": "Sebastian Hainzl"
+    },
+    {
+      "source": "/notes/Coulomb-rate-and-state-model",
+      "target": "/Dieterich1994-rd",
+      "text": "@Dieterich1994-rd"
+    },
+    {
+      "source": "/notes/Curriculum-Vitae",
+      "target": "/notes/prj-tempmatch",
+      "text": "connecting seismic sequences with physical observation"
+    },
+    {
+      "source": "/notes/Curriculum-Vitae",
+      "target": "/notes/prj-eqsim",
+      "text": "numerical models of earthquake ruptures"
+    },
+    {
+      "source": "/notes/DELA-chapter-1-first-order-equations",
+      "target": "/DELA-chapter-2-second-order-equations",
+      "text": "DELA chapter 2 - second order equations"
+    },
+    {
+      "source": "/notes/DELA-chapter-2-second-order-equations",
+      "target": "/complex-numbers",
+      "text": "complex numbers"
+    },
+    {
+      "source": "/notes/Detective-work-for-the-environment",
+      "target": "/notes/Soya-and-beef-industry-in-Brazil",
+      "text": "notes/Soya and beef industry in Brazil"
+    },
+    {
+      "source": "/notes/Detective-work-for-the-environment",
+      "target": "/notes/Consume-for-the-greatest-good",
+      "text": "notes/Consume for the greatest good"
+    },
+    {
+      "source": "/notes/Dieterich-JGR-1994",
+      "target": "/notes/James-H-Dieterich",
+      "text": "James H. Dieterich"
+    },
+    {
+      "source": "/notes/Dieterich-JGR-1994",
+      "target": "/notes/Dieterich-Tectonophysics-1992",
+      "text": "Dieterich1992"
+    },
+    {
+      "source": "/notes/Dieterich-JGR-1994",
+      "target": "/notes/rate-and-state-friction",
+      "text": "rate-and-state friction"
+    },
+    {
+      "source": "/notes/Differential-Equations-and-Linear-Algebra",
+      "target": "/notes/Gilbert-Strang",
+      "text": "Gilbert Strang"
+    },
+    {
+      "source": "/notes/Differential-Equations-and-Linear-Algebra",
+      "target": "/notes/DELA-chapter-1-first-order-equations",
+      "text": "Chapter 1: 1st order eqs"
+    },
+    {
+      "source": "/notes/Differential-Equations-and-Linear-Algebra",
+      "target": "/notes/DELA-chapter-2-second-order-equations",
+      "text": "Chapter 2: 2nd order eqs"
+    },
+    {
+      "source": "/notes/ETAS",
+      "target": "/Ogata-Yosihiko-%E5%B0%BE%E5%BD%A2%E8%89%AF%E5%BD%A6",
+      "text": "Ogata Yosihiko 尾形良彦"
+    },
+    {
+      "source": "/notes/ETAS",
+      "target": "/notes/statistical-seismology",
+      "text": "notes/statistical seismology"
+    },
+    {
+      "source": "/notes/ETAS",
+      "target": "/Question",
+      "text": "Question"
+    },
+    {
+      "source": "/notes/ETAS",
+      "target": "/Leila-Mizrahi",
+      "text": "Leila Mizrahi"
+    },
+    {
+      "source": "/notes/ETAS",
+      "target": "/Shyam-Nandan",
+      "text": "Shyam Nandan"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/notes/UCERF3",
+      "text": "UCERF3"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/earthquake-simulator",
+      "text": "earthquake simulator"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/machine-learning",
+      "text": "machine learning"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/notes/data-assimilation",
+      "text": "notes/data assimilation"
+    },
+    {
+      "source": "/notes/Earthquake-forecasting-with-simulators",
+      "target": "/notes/RSQSim",
+      "text": "RSQSim"
+    },
+    {
+      "source": "/notes/Erickson-EarthArxiv-2022",
+      "target": "/notes/SEAS",
+      "text": "SEAS"
+    },
+    {
+      "source": "/notes/Erickson-EarthArxiv-2022",
+      "target": "/notes/Brittany-A-Erickson",
+      "text": "Brittany A. Erickson"
+    },
+    {
+      "source": "/notes/Everyday-tools",
+      "target": "/notes/Huberman-said",
+      "text": "Huberman said"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/Fault2SHA",
+      "text": "Fault2SHA"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "PSHA"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/earthquake-simulator",
+      "text": "earthquake simulator"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/SEAS",
+      "text": "SEAS"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/notes/UCERF3",
+      "text": "UCERF3"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/notes/Chartier2019-SHERIFSOpenSource",
+      "text": "SHERIFS"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/Pace2016-wb",
+      "text": "FiSH"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/Virtual-Quake",
+      "text": "Virtual Quake"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/PyLith",
+      "text": "PyLith"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/Sachs2012-mb",
+      "text": "@Sachs2012-mb"
+    },
+    {
+      "source": "/notes/Fault2FMD",
+      "target": "/Yoder2015-du",
+      "text": "@Yoder2015-du"
+    },
+    {
+      "source": "/notes/Field-SRL-2019",
+      "target": "/notes/earthquake-simulator",
+      "text": "Earthquake Simulator"
+    },
+    {
+      "source": "/notes/Field-SRL-2019",
+      "target": "/notes/earthquake-forecast",
+      "text": "Earthquake Forecast"
+    },
+    {
+      "source": "/notes/Foreshock-Traffic-Light-System",
+      "target": "/Stefan-Wiemer",
+      "text": "Stefan Wiemer"
+    },
+    {
+      "source": "/notes/Foreshock-Traffic-Light-System",
+      "target": "/notes/Van_der_Elst2021-cq",
+      "text": "B-positive"
+    },
+    {
+      "source": "/notes/Global-Earthquake-Model",
+      "target": "/notes/OpenQuake",
+      "text": "OpenQuake"
+    },
+    {
+      "source": "/notes/Good-coding-for-your-research",
+      "target": "/python",
+      "text": "Python"
+    },
+    {
+      "source": "/notes/Good-coding-for-your-research",
+      "target": "/fortran",
+      "text": "Fortran"
+    },
+    {
+      "source": "/notes/Graeme-Weatherill",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "PSHA"
+    },
+    {
+      "source": "/notes/Graeme-Weatherill",
+      "target": "/2022-06-15-Wed",
+      "text": "2022-06-15 Wed"
+    },
+    {
+      "source": "/notes/Guns-germs-and-steel",
+      "target": "/Jared-Diamond",
+      "text": "Jared Diamond"
+    },
+    {
+      "source": "/notes/Guns-germs-and-steel",
+      "target": "/2021-01-01-Fri",
+      "text": "2021-01-01 Fri"
+    },
+    {
+      "source": "/notes/Guns-germs-and-steel",
+      "target": "/New-Zealand",
+      "text": "New Zealand"
+    },
+    {
+      "source": "/notes/How-to-take-smart-notes",
+      "target": "/Obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/notes/Jackson-PhilosTransA-2006",
+      "target": "/notes/prj-EMME23",
+      "text": "EMME"
+    },
+    {
+      "source": "/notes/James-H-Dieterich",
+      "target": "/rate-and-state-friction",
+      "text": "rate-and-state friction"
+    },
+    {
+      "source": "/notes/James-H-Dieterich",
+      "target": "/RSQSim",
+      "text": "RSQSim"
+    },
+    {
+      "source": "/notes/Latex",
+      "target": "/notes/How-to-graduate-in-D-ERDW",
+      "text": "doctoral thesis"
+    },
+    {
+      "source": "/notes/Latex",
+      "target": "/notes/Obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/notes/Laurentiu-Danciu",
+      "target": "/notes/OpenQuake",
+      "text": "OpenQuake"
+    },
+    {
+      "source": "/notes/Laurentiu-Danciu",
+      "target": "/notes/Global-Earthquake-Model",
+      "text": "notes/Global Earthquake Model"
+    },
+    {
+      "source": "/notes/Making-a-github-hosted-website",
+      "target": "/notes/PKM",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/notes/My-Hero-Academics",
+      "target": "/notes/Making-a-github-hosted-website",
+      "text": "made a website"
+    },
+    {
+      "source": "/notes/My-Hero-Academics",
+      "target": "/notes/Open-science",
+      "text": "Open science"
+    },
+    {
+      "source": "/notes/OpenQuake",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "PSHA"
+    },
+    {
+      "source": "/notes/PKM",
+      "target": "/notes/Making-a-github-hosted-website",
+      "text": "static website"
+    },
+    {
+      "source": "/notes/PSHA",
+      "target": "/notes/Gerstenberger-RevGeophys-2020",
+      "text": "Gerstenberger2020"
+    },
+    {
+      "source": "/notes/PSHA",
+      "target": "/OpenQuake",
+      "text": "OpenQuake"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/Ying-di-Luo",
+      "text": "Ying-di Luo"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/Jean-Paul-Ampuero",
+      "text": "Jean-Paul Ampuero"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/Percy-Galvez-Barron",
+      "text": "Percy Galvez Barron"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/Martijn-P-A-van-den-Ende",
+      "text": "Martijn P A van den Ende"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/QDYN_github",
+      "text": "QDYN_github"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/notes/boundary-element-method",
+      "text": "boundary-element"
+    },
+    {
+      "source": "/notes/QDYN",
+      "target": "/fortran",
+      "text": "Fortran"
+    },
+    {
+      "source": "/notes/RSQSim",
+      "target": "/notes/rate-and-state-friction",
+      "text": "notes/rate-and-state friction"
+    },
+    {
+      "source": "/notes/RSQSim",
+      "target": "/James-H-Dieterich",
+      "text": "James H Dieterich"
+    },
+    {
+      "source": "/notes/RSQSim",
+      "target": "/Keith-B-Richards-DInger",
+      "text": "Keith B Richards-DInger"
+    },
+    {
+      "source": "/notes/RSQSim",
+      "target": "/Dieterich2010-sl",
+      "text": "@Dieterich2010-sl"
+    },
+    {
+      "source": "/notes/RSQSim",
+      "target": "/notes/Virtual-Quake",
+      "text": "Virtual Quake"
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/SCEC",
+      "text": "SCEC"
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/notes/Brittany-A-Erickson",
+      "text": "Brittany A. Erickson"
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/notes/Camilla-Cattania",
+      "text": "Camilla Cattania"
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/notes/Brittany-A-Erickson",
+      "text": "Erickson, B. A."
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/notes/Ylona-van-Dinther",
+      "text": "Ylona van Dinther"
+    },
+    {
+      "source": "/notes/SEAS",
+      "target": "/notes/Erickson-EarthArxiv-2022",
+      "text": "Erickson et al."
+    },
+    {
+      "source": "/notes/Soya-and-beef-industry-in-Brazil",
+      "target": "/notes/Greenhouse-gas-footprint-by-diet",
+      "text": "Greenhouse-gas footprint by diet"
+    },
+    {
+      "source": "/notes/Stefan-Wiemer",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "notes/probabilistic seismic hazard assessment"
+    },
+    {
+      "source": "/notes/Stefan-Wiemer",
+      "target": "/statistical-seismology",
+      "text": "statistical seismology"
+    },
+    {
+      "source": "/notes/Stefan-Wiemer",
+      "target": "/SED",
+      "text": "SED"
+    },
+    {
+      "source": "/notes/Stefan-Wiemer",
+      "target": "/SED",
+      "text": "SED"
+    },
+    {
+      "source": "/notes/Taiwan-seismotectonics",
+      "target": "/notes/Chi-Shang-earthquake-sequence",
+      "text": "Chi-Shang earthquake sequence"
+    },
+    {
+      "source": "/notes/Taiwan-seismotectonics",
+      "target": "/notes/Chi-chi-earthquake",
+      "text": "Chi-chi earthquake"
+    },
+    {
+      "source": "/notes/The-secret-of-the-synchronized-pendulums",
+      "target": "/Scholz2010-rz",
+      "text": "@Scholz2010-rz"
+    },
+    {
+      "source": "/notes/UCERF3",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "PSHA"
+    },
+    {
+      "source": "/notes/Van_der_Elst2021-cq",
+      "target": "/Nicholas-J-van-der-Elst",
+      "text": "Nicholas J van der Elst"
+    },
+    {
+      "source": "/notes/Virtual-Quake",
+      "target": "/Yoder2015-du",
+      "text": "@Yoder2015-du"
+    },
+    {
+      "source": "/notes/Virtual-Quake",
+      "target": "/Sachs2012-mb",
+      "text": "@Sachs2012-mb"
+    },
+    {
+      "source": "/notes/Ylona-van-Dinther",
+      "target": "/notes/data-assimilation",
+      "text": "data assimilation"
+    },
+    {
+      "source": "/notes/Ylona-van-Dinther",
+      "target": "/notes/earthquake-simulator",
+      "text": "earthquake simulator"
+    },
+    {
+      "source": "/notes/better-built-environments",
+      "target": "/notes/better-housing",
+      "text": "Better housing"
+    },
+    {
+      "source": "/notes/coffee",
+      "target": "/notes/flash-brew",
+      "text": "flash bew"
+    },
+    {
+      "source": "/notes/coffee",
+      "target": "/2022-10-08-Sat",
+      "text": "2022-10-08 Sat"
+    },
+    {
+      "source": "/notes/data-assimilation",
+      "target": "/notes/prj-eqsim",
+      "text": "notes/prj-eqsim"
+    },
+    {
+      "source": "/notes/data-assimilation",
+      "target": "/Ylona-van-Dinther",
+      "text": "Ylona van Dinther"
+    },
+    {
+      "source": "/notes/data-assimilation",
+      "target": "/notes/earthquake-simulator",
+      "text": "notes/earthquake simulator"
+    },
+    {
+      "source": "/notes/data-assimilation",
+      "target": "/stress-drop",
+      "text": "stress drop"
+    },
+    {
+      "source": "/notes/data-visualization",
+      "target": "/notes/Nicolas-P-Rougier",
+      "text": "Nicolas P. Rougier"
+    },
+    {
+      "source": "/notes/data-visualization",
+      "target": "/notes/matplotlib",
+      "text": "matplotlib"
+    },
+    {
+      "source": "/notes/docker",
+      "target": "/notes/preview-changes",
+      "text": "install Quartz's dependencies manually"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/notes/data-assimilation",
+      "text": "data assimilation"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/Hardebeck2021-hl",
+      "text": "@Hardebeck2021-hl"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/Coulomb-rate-and-state-model",
+      "text": "CRS"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/Dieterich1994-rd",
+      "text": "@Dieterich1994-rd"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/GNS-Science",
+      "text": "GNS Science"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/Warner-Marzocchi",
+      "text": "Warner Marzocchi"
+    },
+    {
+      "source": "/notes/earthquake-forecast",
+      "target": "/notes/Earthquake-forecasting-with-simulators",
+      "text": "notes/Earthquake forecasting with simulators"
+    },
+    {
+      "source": "/notes/earthquake-simulator",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/earthquake-simulator",
+      "target": "/notes/Virtual-Quake",
+      "text": "Virtual Quake"
+    },
+    {
+      "source": "/notes/earthquake-simulator",
+      "target": "/Sachs2012-mb",
+      "text": "@Sachs2012-mb"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/notes/Laurentiu-Danciu",
+      "text": "notes/Laurentiu Danciu"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/Shyam-Nandan",
+      "text": "Shyam Nandan"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/Graeme-Weatherill",
+      "text": "Graeme Weatherill"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/Karin-%C5%9Ee%C5%9Fetyan",
+      "text": "Karin Şeşetyan"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/Stefan-Wiemer",
+      "text": "Stefan Wiemer"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/Dominico-Giradini",
+      "text": "Dominico Giradini"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/",
+      "text": "report pdf"
+    },
+    {
+      "source": "/notes/eshm20",
+      "target": "/notes/Question",
+      "text": "Question:"
+    },
+    {
+      "source": "/notes/failure-resume",
+      "target": "/notes/My-Hero-Academics",
+      "text": "hero type"
+    },
+    {
+      "source": "/notes/failure-resume",
+      "target": "/notes/prj-eqsim",
+      "text": "seismicity modeling"
+    },
+    {
+      "source": "/notes/failure-resume",
+      "target": "/notes/prj-tempmatch",
+      "text": "NZ seismicity project"
+    },
+    {
+      "source": "/notes/geothermal-energy",
+      "target": "/Geoscience-GeoEnergy-Webinar-Series",
+      "text": "Geoscience \u0026 GeoEnergy Webinar Series"
+    },
+    {
+      "source": "/notes/magnitude-frequency-distribution",
+      "target": "/notes/Arnaud-Mignan",
+      "text": "Arnaud Mignan"
+    },
+    {
+      "source": "/notes/magnitude-frequency-distribution",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "PSHA"
+    },
+    {
+      "source": "/notes/magnitude-frequency-distribution",
+      "target": "/notes/Question",
+      "text": "Question"
+    },
+    {
+      "source": "/notes/maps-with-python",
+      "target": "/notes/prj-tempmatch",
+      "text": "NZ project"
+    },
+    {
+      "source": "/notes/maps-with-python",
+      "target": "/notes/python",
+      "text": "Python"
+    },
+    {
+      "source": "/notes/maps-with-python",
+      "target": "/notes/matplotlib",
+      "text": "matplotlib"
+    },
+    {
+      "source": "/notes/maps-with-python",
+      "target": "/notes/Pandas",
+      "text": "Pandas"
+    },
+    {
+      "source": "/notes/maps-with-python",
+      "target": "/notes/Chartier2019-SHERIFSOpenSource",
+      "text": "SHERIFS"
+    },
+    {
+      "source": "/notes/matplotlib",
+      "target": "/notes/Latex",
+      "text": "Latex"
+    },
+    {
+      "source": "/notes/modeling-earthquakes",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/modeling-earthquakes",
+      "target": "/notes/James-H-Dieterich",
+      "text": "JH Dieterich"
+    },
+    {
+      "source": "/notes/modeling-earthquakes",
+      "target": "/notes/SEAS",
+      "text": "SEAS"
+    },
+    {
+      "source": "/notes/modeling-earthquakes",
+      "target": "/Ylona-van-Dinther",
+      "text": "Ylona van Dinther"
+    },
+    {
+      "source": "/notes/numpy",
+      "target": "/python",
+      "text": "python"
+    },
+    {
+      "source": "/notes/numpy",
+      "target": "/notes/Nicolas-P-Rougier",
+      "text": "Nicolas P. Rougier"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/OpenMP",
+      "text": "OpenMP"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/python",
+      "text": "python"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/CUDA",
+      "text": "CUDA"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/OpenMP",
+      "text": "OpenMP"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/notes/fortran",
+      "text": "Fortran"
+    },
+    {
+      "source": "/notes/parallel-computing",
+      "target": "/C-and-C++",
+      "text": "C and C++"
+    },
+    {
+      "source": "/notes/prj-EMME23",
+      "target": "/notes/Chartier2019-SHERIFSOpenSource",
+      "text": "SHERIFS"
+    },
+    {
+      "source": "/notes/prj-EMME23",
+      "target": "/notes/QDYN",
+      "text": "QDYN"
+    },
+    {
+      "source": "/notes/prj-EMME23",
+      "target": "/notes/Virtual-Quake",
+      "text": "notes/Virtual Quake"
+    },
+    {
+      "source": "/notes/prj-EMME23",
+      "target": "/Sesetyan2018-wy",
+      "text": "@Sesetyan2018-wy"
+    },
+    {
+      "source": "/notes/prj-EMME23",
+      "target": "/notes/eshm20",
+      "text": "ESHM20"
+    },
+    {
+      "source": "/notes/prj-eqsim",
+      "target": "/notes/modeling-earthquakes",
+      "text": "synthetic seismic sequence"
+    },
+    {
+      "source": "/notes/prj-eqsim",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/prj-eqsim",
+      "target": "/main/QDYN",
+      "text": "QDYN"
+    },
+    {
+      "source": "/notes/prj-strain2rate",
+      "target": "/notes/Coulomb-rate-and-state-model",
+      "text": "CRS"
+    },
+    {
+      "source": "/notes/prj-tempmatch",
+      "target": "/notes/template-matching",
+      "text": "template matching"
+    },
+    {
+      "source": "/notes/prj-tempmatch",
+      "target": "/notes/prj-strain2rate",
+      "text": "notes/prj-strain2rate"
+    },
+    {
+      "source": "/notes/probabilistic-seismic-hazard-assessment",
+      "target": "/notes/UCERF3",
+      "text": "UCERF3"
+    },
+    {
+      "source": "/notes/probabilistic-seismic-hazard-assessment",
+      "target": "/notes/Gerstenberger-RevGeophys-2020",
+      "text": "Gerstenberger2020"
+    },
+    {
+      "source": "/notes/probabilistic-seismic-hazard-assessment",
+      "target": "/OpenQuake",
+      "text": "OpenQuake"
+    },
+    {
+      "source": "/notes/python",
+      "target": "/notes/parallel-computing",
+      "text": "notes/parallel computing"
+    },
+    {
+      "source": "/notes/python",
+      "target": "/notes/numpy",
+      "text": "NumPy"
+    },
+    {
+      "source": "/notes/python",
+      "target": "/notes/Pandas",
+      "text": "Pandas"
+    },
+    {
+      "source": "/notes/python",
+      "target": "/matplotlib",
+      "text": "matplotlib"
+    },
+    {
+      "source": "/notes/python",
+      "target": "/notes/maps-with-python",
+      "text": "Making maps"
+    },
+    {
+      "source": "/notes/rate-and-state-friction",
+      "target": "/notes/James-H-Dieterich",
+      "text": "James H. Dieterich"
+    },
+    {
+      "source": "/notes/rate-and-state-friction",
+      "target": "/Ruina1983-vc",
+      "text": "@Ruina1983-vc"
+    },
+    {
+      "source": "/notes/simulation-science",
+      "target": "/notes/prj-banana-donut",
+      "text": "master project"
+    },
+    {
+      "source": "/notes/simulation-science",
+      "target": "/Differential-Equations-and-Linear-Algebra",
+      "text": "Differential Equations and Linear Algebra"
+    },
+    {
+      "source": "/notes/simulation-science",
+      "target": "/notes/boundary-element-method",
+      "text": "boundary element model"
+    },
+    {
+      "source": "/notes/simulation-science",
+      "target": "/python",
+      "text": "Python"
+    },
+    {
+      "source": "/notes/statistical-seismology",
+      "target": "/notes/magnitude-frequency-distribution",
+      "text": "Magnitude-frequency distribution"
+    },
+    {
+      "source": "/notes/statistical-seismology",
+      "target": "/Wells1994-sf",
+      "text": "@Wells1994-sf"
+    },
+    {
+      "source": "/notes/statistical-seismology",
+      "target": "/Earthquakes-as-point-processes",
+      "text": "Earthquakes as point processes"
+    },
+    {
+      "source": "/notes/statistical-seismology",
+      "target": "/notes/ETAS",
+      "text": "ETAS"
+    },
+    {
+      "source": "/notes/statistical-seismology",
+      "target": "/notes/probabilistic-seismic-hazard-assessment",
+      "text": "Probabilistic seismic hazard assessment"
+    }
+  ]
+}
