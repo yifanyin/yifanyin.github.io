@@ -5,7 +5,7 @@ tags:
 ---
 # Summary
 - Experienced seismologist in multiple fields, including waveform and data analysis, body- and surface-wave tomography, statistical seismology, and earthquake cycle modeling.
-- PhD thesis focus on [[notes/prj-tempmatch|connecting seismic sequences with physical observation]] and [[notes/prj-eqsim|numerical models of earthquake ruptures]].
+- PhD thesis focus on [[Crustal strain and seismicity|connecting seismic sequences with physical observation]] and [[notes/prj-eqsim|numerical models of earthquake ruptures]].
 - Demonstrated capabilities in collaborating and communicating with observational seismologist, simulation scientists and statisticians in and across institutes.
 
 # Education and career
@@ -26,7 +26,6 @@ tags:
 
 ## Postdoc fellow at MIT EAPS
 - May 2023 - present
-- 
 
 ## Research assistant at Academia Sinica
 - *September 2010 - January 2016*

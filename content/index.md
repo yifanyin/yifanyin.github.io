@@ -9,13 +9,14 @@ After defending my thesis at ETH Zürich, I am currently an SNF postdoc.mobility
 Full CV can be [[Curriculum Vitae|found here]] and as a [PDF file](https://yifanyin.github.io/yifans_cv_2022.pdf).
 
 ---
-# What I am onto
-
+# What I am up to
+- Postdoc fellow project on [better earthquake cycle simulations](https://data.snf.ch/grants/grant/214179)
+- I gave an invited talk at AGU2023
 
 # Master and PhD Projects
-- [[notes/prj-banana-donut.md|Seismic imaging]]
-- [[notes/prj-tempmatch.md|Crustal strain and seismicity]]
-- [[notes/prj-eqsim|Seismicity Simulations]]
+- [[Seismic Tomography|Seismic imaging]]
+- [[Crustal strain and seismicity]]
+- [[Simulate earthquake sequences in 3-D fault systems]]
 
 ## Personal Interests
 - [[better built environments|Sustainability in built environments]]
