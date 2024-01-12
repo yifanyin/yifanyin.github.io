@@ -3,20 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🏔️ Yifan Yin 🧑🏻‍💻",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "yifanyin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
+        header: "Lexend",
         body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        code: "Noto Sans Mono",
       },
       colors: {
         lightMode: {
@@ -51,7 +51,7 @@ const config: QuartzConfig = {
         // if you do rely on git for dates, ensure defaultDateType is 'modified'
         priority: ["frontmatter", "filesystem"],
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "mathjax" }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
