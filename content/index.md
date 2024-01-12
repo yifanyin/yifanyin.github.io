@@ -6,7 +6,7 @@ Welcome to Yifan's personal website that doubled as a digital ~~garden~~ rewildi
 I am a seismologist morphed into a structural geologist, bad coder. I like tinkering with stuff, whether it's a piece of code, a bike, or a sourdough recipe.
 After defending my thesis at ETH Zürich, I am currently an SNF postdoc.mobility fellow at MIT EAPS.
 
-Full CV can be [[notes/Curriculum Vitae|found here]] and as a [PDF file](https://yifanyin.github.io/yifans_cv_2022.pdf).
+Full CV can be [[Curriculum Vitae|found here]] and as a [PDF file](https://yifanyin.github.io/yifans_cv_2022.pdf).
 
 ---
 # What I am onto
