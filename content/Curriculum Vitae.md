@@ -3,25 +3,10 @@ title: "Curriculum  Vitae"
 tags:
 - career
 ---
-
 # Summary
 - Experienced seismologist in multiple fields, including waveform and data analysis, body- and surface-wave tomography, statistical seismology, and earthquake cycle modeling.
 - PhD thesis focus on [[notes/prj-tempmatch|connecting seismic sequences with physical observation]] and [[notes/prj-eqsim|numerical models of earthquake ruptures]].
 - Demonstrated capabilities in collaborating and communicating with observational seismologist, simulation scientists and statisticians in and across institutes.
-
-# Work Experience
-
-## Research assistant at Academia Sinica
-- *September 2010 - January 2016*
-- Research assistant with Dr. Frédéric Deschamps working on anisotropy tomography of the North Island, New Zealand and Eastern United States. Duties include dispersion curve fitting, inversion and manuscript writing.
-- Data analyst at Broadband Array in Taiwan for Seismology (BATS). Duties include routine centroid moment tensor inversion for local earthquakes, station quality control, and metadata maintainance for permanant and temporary arrays.
-- Supporting field experiments and institute outreach activities.
-
-## Researcher at SinoTech Engineering Consultants Inc.
-- *August 2009 - August 2010*
-- Report on landslide potentials in Nantou County.
-- Report on Shihmen Reservoir health and impact of landslides within the catchment.
-- Supporting various projects after the Typhoon Morakot, including satellite image processing and production of evacuation maps.
 
 # Education and career
 
@@ -36,6 +21,24 @@ tags:
 **B. S. in earth sciences**
 - National Central University, Taoyuan, Taiwan
 - September 2002 - June 2006
+
+# Work Experience
+
+## Postdoc fellow at MIT EAPS
+- May 2023 - present
+- 
+
+## Research assistant at Academia Sinica
+- *September 2010 - January 2016*
+- Research assistant with Dr. Frédéric Deschamps working on anisotropy tomography of the North Island, New Zealand and Eastern United States. Duties include dispersion curve fitting, inversion and manuscript writing.
+- Data analyst at Broadband Array in Taiwan for Seismology (BATS). Duties include routine centroid moment tensor inversion for local earthquakes, station quality control, and metadata maintainance for permanant and temporary arrays.
+- Supporting field experiments and institute outreach activities.
+
+## Researcher at SinoTech Engineering Consultants Inc.
+- *August 2009 - August 2010*
+- Report on landslide potentials in Nantou County.
+- Report on Shihmen Reservoir health and impact of landslides within the catchment.
+- Supporting various projects after the Typhoon Morakot, including satellite image processing and production of evacuation maps.
 
 # Publications
 
