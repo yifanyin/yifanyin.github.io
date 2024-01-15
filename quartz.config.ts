@@ -11,10 +11,10 @@ const config: QuartzConfig = {
     },
     baseUrl: "yifanyin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       typography: {
-        header: "Lexend",
+        header: "Alata",
         body: "Source Sans Pro",
         code: "Noto Sans Mono",
       },
