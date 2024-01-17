@@ -16,7 +16,7 @@ Is there a way for us greedy scientists to have both phenomena in one simulation
 Our result shows that with fault interaction that naturally exists within the crust, it's a lot easier to generate earthquake sequences that resemble real sequences, albeit that the maximum magnitude is bounded by the fault size. There are other factors we have yet to put in the model, such as heterogeneous frictional properties and non-planar fault planes. The result gives us chances to exam the effect of all these factors that create the statistical signatures of seismicity as we know it.
 
 # Perspectives
-- What does the distribution look like for seismicity generated on the same fault? Are they characteristic in sizes? Are they more or less repetitive in time?
+- #Question What does the distribution look like for seismicity generated on the same fault? Are they characteristic in sizes? Are they more or less repetitive in time?
     -  Yan Y. Kagan, David D. Jackson, Robert J. Geller; **Characteristic Earthquake Model, 1884–2011, R.I.P.**. *Seismological Research Letters* 2012; 83 (6): 951–953. doi: [10.1785/0220120107](https://doi.org/10.1785/0220120107](https://doi.org/10.1785/0220120107)
     - [[magnitude-frequency distribution#The moment-frequency relations|The general MFDs]]
 
