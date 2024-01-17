@@ -3,7 +3,7 @@ title: Hello World!
 ---
 Welcome to Yifan's personal website that doubled as a digital ~~garden~~ rewilding yard.
 
-I am a seismologist and geophysicist. All around bad coder. Stobburn bike commuter. I like tinkering with stuff, whether it's a piece of code, a bike, or a sourdough recipe.
+I am a seismologist and geophysicist. All around bad coder. Stubborn bike commuter. I like tinkering with stuff, whether it's a piece of code, a bike, or a sourdough recipe.
 
 After defending my thesis at ETH Zürich, I am currently an SNF postdoc.mobility fellow at MIT EAPS.
 
