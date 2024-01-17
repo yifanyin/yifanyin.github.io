@@ -2,7 +2,8 @@
 title: On cooking
 tags:
   - food-and-drink
-state: seed
+  - seed
+state:
 ---
 I started cooking, or thinking about cooking, during college. It was not because I finally left home and lived on my own. The college dorm and the shoebox studios for students and singles strongly forbid any kind of cooking. And food was too easy to get around the clock in Taiwan, there was no point of toiling in the kitchen.
 

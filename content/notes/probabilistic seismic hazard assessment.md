@@ -9,7 +9,6 @@ tags:
 - psha
 DocumentClass: website
 ---
-
 # Basic
 - Large-magnitude earthquakes dominant the risk but are the most difficult to constrain
 
@@ -23,9 +22,9 @@ Best talk from the Fault2SHA channel by Graeme Weatherill
 ## Uncertainty model
 
 # See also
-[[notes/UCERF3|UCERF3]]
+[[UCERF3]]
 
 # Resources
-- [[notes/Gerstenberger-RevGeophys-2020|Gerstenberger2020]]
+- @Gerstenberger2020
 - [Fault2SHA learning series](https://www.youtube.com/channel/UCEI-hzEOFRsMdQFdRPS1XBg) on YouTube
 - The [[OpenQuake|OpenQuake]] engine by GEM (Global Earthquake Model Foundation)

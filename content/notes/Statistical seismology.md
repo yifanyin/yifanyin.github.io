@@ -55,4 +55,4 @@ Compare a sample with a reference probability distribution
 # See also
 - [[Earthquakes as point processes]]
 - [[ETAS]]
-- [[probabilistic seismic hazard assessment]]
+- [[Probabilistic seismic hazard assessment]]
